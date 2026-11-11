@@ -1,0 +1,771 @@
+{
+  "intro": {
+    "zh": [
+      "從2021年開始，泛美國際桃李盃舞蹈大賽開啓了評級評審團（Judge-In-Training Program），旨在應對日益多元化、全球化的比賽需求。這項計劃邀請全球各地教授中國舞或具有中國舞背景的資深舞者加入初評級評審團，以參與泛美國際桃李盃舞蹈大賽的評審工作。經過兩年的經驗積累，這些評審團成員已展現出卓越的評審能力和專業水平，因此受到了組委會的邀請，成爲了初賽的評委老師。",
+      "他們將在初賽中擔任評委角色，共同評審選手的表演，爲比賽的順利進行和優秀選手的選拔提供專業意見和經驗。這一舉措不僅充分肯定了評級評審團成員過去兩年所付出的努力和才華，也爲他們提供了更廣闊的舞臺和更深入的參與機會。",
+      "評級評審團的加入不僅豐富了評審團隊的多樣性和專業性，也爲泛美國際桃李杯舞蹈大賽注入了新鮮血液和活力。他們的專業知識和經驗將進一步推動中國舞蹈文化在海外的傳播和發展，爲賽事的成功舉辦貢獻力量。"
+    ],
+    "en": [
+      "Since 2021, the Taoli World Dance Competition has offered a Judge-In-Training Program to meet the needs of an increasingly diverse, international competition. The program invites experienced dancers around the world who teach Chinese dance or have a background in it to participate in judging. After two years of experience, these members demonstrated strong judging abilities and professionalism and were invited by the organizing committee to serve as preliminary judges.",
+      "They evaluate competitors’ performances and contribute their expertise and experience to the selection process. This recognizes their efforts and abilities while offering a broader platform and deeper involvement in the competition.",
+      "The program brings diversity, expertise, and fresh perspectives to the judging team. Its members help promote Chinese dance overseas and contribute to the success of the competition."
+    ]
+  },
+  "judges": [
+    {
+      "id": "snow-han",
+      "name": {
+        "zh": "韓雪",
+        "en": "Snow Han"
+      },
+      "photo": "images/judges/preliminary/snow-han.jpeg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "韓雪，12歲進入北京舞蹈學院附中學習中國舞，2008年做為“優秀畢業生”畢業於北京舞蹈學院，獲得中國民族民間舞表演專業學士學位。在校期間曾參加了第八屆桃李杯 舞蹈比賽並以作品《紅珊瑚》獲獎表演二等獎，曾多次代表學校出訪香港，加拿大等地參加大型晚會和舞蹈節演出任務。畢業後進入中央民族歌舞團工作擔任主要舞蹈演員，並加入 中國舞蹈家協會會員，多次隨團參加國僑辦組辦的《文化中國四海同春》慰問演出，多次出訪美國，歐洲等多個國家地區，在團期間也曾多次參加國內的各 大文化節和晚會的舞蹈演出，如2008年奧運會文化節。近期致力於中國舞蹈文化的海外宣傳，創編的作品多次獲得美國印第安納大學舉行的國際學生舞蹈比賽一等獎。個人表演曾贏得2018年度 國際桃李杯芝加哥賽區最高指標。現任南加中華舞團的駐團導師。"
+      ],
+      "source": "https://www.taoliworld.com/judges/snow-han/"
+    },
+    {
+      "id": "ying-shi",
+      "name": {
+        "zh": "史穎",
+        "en": "Ying Shi"
+      },
+      "photo": "images/judges/preliminary/ying-shi.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "歷任北京舞蹈學院講師, 清華大學舞蹈團特聘講師，亞運會開幕式舞蹈編導，Star Arts Center史穎舞蹈學校藝術總監，自2019年成爲泛美中國舞蹈聯盟理事。曾經榮獲CCTV教育電視臺評選的“全國十佳教師”之一，中國中央電視臺“心連心”藝術團舞蹈編導之一，德國“世界青少年舞蹈大賽”編導一等獎，2017-2018國際桃李盃專業組評委特別獎，十佳白金獎2017-2018國際桃李盃原創編導獎。"
+      ],
+      "source": "https://www.taoliworld.com/judges/ying-shi/"
+    },
+    {
+      "id": "shuqi-cong",
+      "name": {
+        "zh": "從舒齊",
+        "en": "Shuqi Cong"
+      },
+      "photo": "images/judges/preliminary/shuqi-cong.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025"
+      ],
+      "bio": [
+        "PERFORMING EXPERIENCE",
+        "• 2026 – present: Metro Opera and San Francisco Opera Dancer",
+        "• 2024 – 2026: Graham 2, New York City",
+        "• 2023 & 2021: Performed in the premiere of Shen Wei’s “Integration”",
+        "at the Shanghai International Arts Festival, China.",
+        "• 2020: Participated in the second season of “Dance Storm” on Hunan",
+        "TV and entered the top 24 nationwide, China.",
+        "• 2018: Featured in the premiere of “Rite of Spring | Made in China,” a",
+        "co-production by Portuguese Quorum Ballet, Shanghai Oriental Arts",
+        "Center, and other prestigious platforms.",
+        "• 2018: Performed in the Young Talent Project of the Dancers",
+        "Association with Liu Jia’s work “00:00” , China.",
+        "• 2017: Performed and won the Top Ten Works Award at the Lotus",
+        "Award National Folk Dance Competition with the dance “Rain Ritual”",
+        "• 2017: Played the lead role in the key cultural creation dance drama",
+        "“Butterfly Mother” in Guizhou Province 2017: Performed in the Beijing",
+        "Dance Double Youth Dance Exhibition “Time and Space Memory”",
+        "organized by Beijing Leidong Tianxia .",
+        "• 2017: Won the Second Prize in Performance at the Beijing Dance",
+        "Competition with the dance “Fight”.",
+        "• 2017: Performed in the performance of the Chinese Zodiac by the",
+        "Beijing Modern Dance Company.",
+        "• 2016: Performed in the Young Talent Project of the Dancers",
+        "Association with Nian Yunhua’s work “Elephant • One Thought”.",
+        "CHOREOGRAPHY EXPERIENCE",
+        "• 2022: Choreographic Assistant of “Building a Snowflake” for the opening ceremony of the Beijing",
+        "Winter Olympics, China",
+        "• 2020: Choreographed the Mongolian dance “Root” which won the Second Prize in Choreography",
+        "at the “New Talent Cup” of the Dance College, China.",
+        "• 2020: Participated in the Seoul Dance Competition in Korea with the work “Root” and won the",
+        "First Prize in Performance",
+        "• 2018: Choreographed the work “Taste” which won the First Prize in Choreography at the",
+        "Singapore Asian International Dance Competition"
+      ],
+      "source": "https://www.taoliworld.com/judges/shuqi-cong/"
+    },
+    {
+      "id": "yanhong-fan",
+      "name": {
+        "zh": "范艷紅",
+        "en": "Yanhong Fan"
+      },
+      "photo": "images/judges/preliminary/yanhong-fan.jpeg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "范豔紅，2002年畢業於北京舞蹈學院古典舞系。工作期間獲得上海體育學院碩士研究生學位，學習研究運動損傷相關知識。2002—-2017年工作於上海舞蹈學校；同年至今在溫哥華業餘舞蹈學校教學，一共19年教學。多次帶領學生參加國際桃李杯並多次獲得優異的成績。"
+      ],
+      "source": "https://www.taoliworld.com/judges/yanhong-fan/"
+    },
+    {
+      "id": "lily-han",
+      "name": {
+        "zh": "韓莉",
+        "en": "Lily Han"
+      },
+      "photo": "images/judges/preliminary/lily-han.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "韓莉老師，泛美舞蹈聯盟理事，中國民族民間舞等級考試1-12級教師，美國丹佛茉莉花舞蹈學校創辦人。從事中國舞教學二十餘年，多次擔任青少年舞蹈比賽評委。她培養的學生榮獲了國際桃李杯舞蹈大賽年度最高獎，評委特別獎等多項大獎。她的團隊被中央電視臺等中美媒體多次報道，連年被NBA邀請做中場表演，也受到了外州大學的歡迎被邀請做春節演出，傳播中國文化。韓莉老師全身心致力於海外中國舞和中國文化的推廣，做出了突出貢獻。"
+      ],
+      "source": "https://www.taoliworld.com/judges/lily-han/"
+    },
+    {
+      "id": "yao-liu",
+      "name": {
+        "zh": "劉瑤",
+        "en": "Yao Liu"
+      },
+      "photo": "images/judges/preliminary/yao-liu.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "EDUCATION",
+        "Graduate Student, Educational Psychology Aug. 2021 – Jan.2023",
+        "University of Arizona, Tucson, Arizona, USA",
+        "GPA: 3.89",
+        "Bachelor of Arts, Choreographer Sep. 2008 – Jul. 2012 Northeast Petroleum University, Daqing, Heilongjiang, China",
+        "GPA: 3.3",
+        "COURSES",
+        "Motivation and Development in the Classroom; Psychology of Instruction; Learning Theory in Education; Educational Tests and Measurements; Statistical Methods in Education; Seminal Readings in Education and Educational Psychology; Statistical Methods in Education; Introduction to Educational Research",
+        "CERTIFICATE",
+        "• Educational Research Methodology (Certificate NDP), Fall 2022",
+        "• Motivating Learning Environments (Certificate NDP), Fall 2022",
+        "• IRB: Social & Behavioral Research Investigators Certification, CITI, Aug. 2021",
+        "• Teacher Qualification Certificate (Level 1 to Level 10), by Chinese Dancers Association, Aug. 2013",
+        "• Certificate of Yoga Instructor, by International Yoga Allied Institute, Aug. 2010",
+        "WORK EXPERIENCE",
+        "Dance Teacher Jan. 2023 – Present",
+        "Rising Star Academy, Utah, U.S.",
+        "• Taught Ballet and Ethnic dance",
+        "Director Sep. 2023 – Present",
+        "Sunshine Art Academy, Utah, U.S.",
+        "• Taught Ballet and Ethnic dance",
+        "Dance Teacher Mar. 2020 – Oct. 2021",
+        "Easter Art Academy, Chandler, Arizona, U.S.",
+        "• Taught Ethnic dance",
+        "Dance Teacher Mar. 2015 – Oct. 2017",
+        "Suzhou Industrial Park Foreign Language School, Suzhou, Jiangsu, China",
+        "• Taught Ballet and Ethnic dance in primary school",
+        "Dance Teacher Sep. 2013 – Feb. 2015 Renmin University of China, Suzhou Campus, Suzhou, Jiangsu, China",
+        "• Taught flight attendants Professional Physique Course",
+        "Dance Teacher Jul. 2012 – Aug. 2013 Shanghai Livingston American Schools, Shanghai, China",
+        "• Taught international division dance classes, including kindergarten, primary and middle schools",
+        "PERFORMANCE EXPERIENCE",
+        "• 2015-2017 Suzhou Industrial Park Foreign Language School",
+        "o School Christmas performance, performance activity for a TV show",
+        "o Municipal, provincial, and national dance competition",
+        "• 2014-2015 Renmin University of China, Suzhou Campus",
+        "o Welcome party performance for the freshman",
+        "o New-year’s Eve party performance",
+        "• 2012-2014 Shanghai Livingston American Schools",
+        "o Student dance performance & School dance party",
+        "• 2010-2012 Northeast Petroleum University",
+        "o 24th World Universiade Opening Ceremony on Jan. 2010, Harbin",
+        "o 6th International Cartoon and Animation Festival Opening Ceremony in May 2010, Hangzhou",
+        "o Heilongjiang Provincial University Game Opening Ceremony in Jul. 2011, Daqing",
+        "o 10th Sanjiang Tourism Festival Opening Ceremony in Jun. 2012, Jiamusi",
+        "HONOS & AWARDS",
+        "• Aug. 2024, “Taoli World Dance Competition”, Gold Award & Platinum Award, held in Los Angeles",
+        "• Jul. 2024, “Taoli World Dance Competition”, Platinum Solo dance Award, held in Zhu Hai, China",
+        "• May. 2024, “Taoli World Dance Competition”, Summer Preliminary, 2 x Platinum Award, 2 x Audience Choice Award, 2x Gold Award",
+        "• May. 2024, “Stoplight Dance Cup”, 3 x Ruby Award, solo Top 5, 2 x Judge’s Award, Utah",
+        "• Apr. 2024, “YAGP Anniversary Season Finals Dance Competition”, Senior Classical Ballet Top 32, New York",
+        "• Apr. 2024, “Platinum National Dance Competition”, 2 x Overall First Place, 2 x Judge’s Award, Overall Second Place, Utah",
+        "• Jan. 2024, “YAGP Dance Competition”, Senior Classical Ballet Top 2, in Salt Lake City",
+        "• Dec. 2023, “Taoli World Dance Competition”, Winner Preliminary, 2 x Platinum Award, Top1",
+        "• Aug. 2022, “Everett L. Holden & Marian G. Holden Memorial Scholarship” at the University of Arizona",
+        "• Aug. 2022, Presentation in “Taoli World Seminar 2012-2022”",
+        "• Nov.2021-2024, “Taoli World Dance Competition”, a preliminary judge in the U.S.",
+        "• Jul. 2021, “Taoli World Dance Competition”, Online Regional, Gold Award & Platinum Award",
+        "• Jul. 2021, “Taoli World Dance Competition”, Online Regional, Best Visual Presentation Award",
+        "• Apr. 2021, “Taoli World Dance Competition”, Online Regional, Teaching Excellence",
+        "• Apr. 2021, “Taoli World Dance Competition”, Online Regional, 2x Gold Award",
+        "• Dec 2020, “Taoli World Dance Competition”, Online Regional, Platinum Award",
+        "• Dec. 2020, “Taoli World Dance Competition”, Online Regional, Best Visual Presentation Award",
+        "• Aug. 2018, “Taoli World Dance Competition”, Platinum Solo dance Award, held in Los Angeles",
+        "• Jan. 2017, Outstanding teaching and research individual, Suzhou Industrial Park Foreign Language School",
+        "• Dec.2017, Shanghai “The Overseas Taoli Cup” Solo dance, 2x Gold Award, 2x Silver Award",
+        "• Jun. 2017, “Little Orchid Dance Art Festival”, Gold Award, broadcasted on Jiangsu Provincial TV Channel",
+        "• May 2017, 14th Chinese Outstanding Talent Student Show, First prize of solo dance in the Jiangsu area",
+        "• Jan. 2017, National Student Spring Festival Evening, First prize, held at Tsinghua University",
+        "• Feb. 2017, 11th Hong Kong international Teenage Culture Art Festival, Second prize",
+        "• Jun. 2016, Excellent teacher, Suzhou Industrial Park Foreign Language School",
+        "• Dec. 2016, Jiangsu Provincial “Little Orchid Prize” Solo dance Competition, 3x Second prize, 1x Third prize",
+        "• Nov. 2016, 1st Suzhou Industrial Park Primary and secondary students singing dancing and instrument competition, 3x Second prize",
+        "• Jul. 2016, 13th “Campus of Star” National Outstanding Talent Student show, 2x Gold Award, 2x Silver Award",
+        "• Jul. 2016, 7th National campus art competition, Gold Award, broadcasted on Nation Education TV Channel",
+        "• May 2016, Chinese Outstanding Talent Student Show, First prize for solo dance in the Jiangsu area",
+        "• 2015&2016, Suzhou Industrial Park Primary and secondary students dance show, Second prize",
+        "• 2009, National scholarships (1%); Excellent All-round Student (Top 3%)"
+      ],
+      "source": "https://www.taoliworld.com/judges/yao-liu/"
+    },
+    {
+      "id": "rose-shi",
+      "name": {
+        "zh": "施皓柔",
+        "en": "Rose Shi"
+      },
+      "photo": "images/judges/preliminary/rose-shi.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024"
+      ],
+      "bio": [
+        "施皓柔，中國民族民間舞等級考試認證考級教師，中國舞蹈家協會等級考試認證考級教師。Contemporary Lyrical編舞編導。Chinese Fusion舞蹈編導。本科於北京舞蹈學院中國民族民間舞系表演班。研究生畢業於美國東北大學米爾斯學院藝術舞蹈編舞方向（Mills College at Northeastern University with a major in Fine Arts of Dance in Choreography）2004-2015年參加多次參加國內大型演出，包括2009年國慶60週年聯歡晚會。2015-2017年擔任北京舞蕾傳媒公司舞蹈技術技巧教學主管一職。2017年赴美在校期間獲得米爾斯學院頒發舞蹈表演獎。2019年畢業後多次被北美大型藝術節邀請，公益表演中國民族民間舞/中國古典舞/中國風爵士舞傳播中國文化，並受到各市市長頒發感謝證書與大衆廣泛好評。2020年華星杯世界舞蹈大賽表演東北秧歌‘Villege Gal’表演第一名最高分。2020-2024擔任桃李杯/華星杯舞蹈比賽評委，加州國際武術競標塞特邀審計等。同年間編舞單人/雙人/羣舞數十次，並指導其學生獲得美國國際舞蹈比賽（Rainbow/Starpower/Spotlight/Radix/Nextstar等）總體表演分數第一第二等/編舞獎/創意獎/服裝獎等。"
+      ],
+      "source": "https://www.taoliworld.com/judges/rose-shi/"
+    },
+    {
+      "id": "huiling-tan",
+      "name": {
+        "zh": "譚慧玲",
+        "en": "Huiling Tan"
+      },
+      "photo": "images/judges/preliminary/huiling-tan.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024",
+        "2022-2023"
+      ],
+      "bio": [
+        "譚慧玲  國家一級演員  MFA藝術碩士 國內專業藝術院校雙師型高級教師中國舞蹈家協會會員    中國社會藝術考級高級考官 從教27年一直致力於專業舞蹈的教學和研究工作多次擔任國內專業舞蹈大賽評審工作。"
+      ],
+      "source": "https://www.taoliworld.com/judges/huiling-tan/"
+    },
+    {
+      "id": "yuanyuan-wang",
+      "name": {
+        "zh": "王媛媛",
+        "en": "Yuanyuan Wang"
+      },
+      "photo": "images/judges/preliminary/yuanyuan-wang.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025"
+      ],
+      "bio": [
+        "王媛媛",
+        "教育经历：",
+        "2006年—2010年就读于北京舞蹈学院  本科 舞蹈编导专业",
+        "2010年—2013年就读于北京舞蹈学院  硕士 舞蹈编导专业",
+        "在校期间，多次荣获国家励志奖学金、学院一、二等奖学金，并多次荣获优秀团员、三好学生等称号。",
+        "2023年移居加拿大，2023年冬季赛推两名学生参加桃李杯美国决赛，一名获得年龄组第一，一名获得最高荣誉奖、评委会最高奖和十佳铂金奖三项大奖。",
+        "2024年，创办舞蹈工作室W·E dance。所指导三个节目参加2024夏季美国总决赛，《雨后》《小薇小薇》两个节目分别获得该年龄组第一，另外一个成人小群舞节目《花供今朝》获铂金奖。",
+        "工作室成立大半年的时间，目前运营良好，学生慕名而来的比较多，今年预计会推近10个节目参加本次比赛。",
+        "在校期间的实践与科研活动：",
+        "担当北京舞蹈学院第一部多媒体舞蹈《舞者》的执行导演，与北京舞蹈学院青年舞团合作演出。",
+        "参与北京舞蹈学院多媒体实验舞剧《浮生若梦》的全程策划、编创与制作。",
+        "参与现代舞编导班舞剧《彩虹依然》及毕业舞剧的创作。",
+        "于中国人民大学艺术学院实习，参与“国家汉办”海外推广节目《京剧中国》的编导与策划。",
+        "协助导师完成《当代编舞理论与技法》专著，参与相关课题研究。",
+        "同导师赴台湾、广州、安徽等地，并完成“海峡两岸现代舞选材的异同”、“广州三团三校的现代舞现状”、“第十届“桃李杯”比赛现状”的课题研究。",
+        "参与首届现代舞研讨会、首届敦煌舞研讨会的组织与策划。",
+        "工作经历：",
+        "曾任职于北京市昌平第二实验小学，担任舞蹈老师及舞蹈教研组组长，创办校舞蹈团，当年就取得本区艺术节比赛一等奖第一名的成绩，并负责策划、举办学校的各项大型活动，协助校领导工作。",
+        "曾担任华北电力大学舞蹈协会舞蹈教师，负责舞蹈协会的教学和舞蹈节目排练。",
+        "创办北京圆舞文化艺术有限公司，担任管理者和舞蹈教师，期间学校运营良好，成绩不俗，指导学生获奖近百项，获优秀教师近50项。",
+        "所持证书：",
+        "北京舞蹈学院中国舞等级考试—教师资格证书，1-13级上",
+        "爵士舞等级考级—教师资格证书，1-3级",
+        "所获奖项：",
+        "作品与实践类：",
+        "国际奖项：",
+        "带学生参加“加拿大国际舞蹈艺术节”，荣获最佳表演节目。",
+        "学生亮相“美国联合国总部展演”，荣获金奖。",
+        "带学生赴新加坡，参加中新青少年艺术展演，荣获金奖。",
+        "带学生赴韩国，获第二届中韩青少年艺术交流活动 一等奖。",
+        "部分国内奖项：",
+        "在教委直属比赛“北京市学生艺术节”中，多次获奖，区一等奖、市银奖等。其中，原创音乐剧剧目《勿霾》深获好评，区一等奖第一名，市第二名。",
+        "带学生参加北京舞蹈学院举办的“桃李芬芳”全国青少年艺术展演（全国总决赛），荣获该组别金奖第一名，且获颁“组委会特别大奖”。",
+        "同时，带学生多次参加以下比赛，并获得最高奖项：",
+        "文旅部“桃李新苗”少儿舞蹈展演；",
+        "中国舞蹈家协会少儿舞蹈展演；",
+        "“海外桃李杯”国际舞蹈大赛；",
+        "第五届全国青少年艺术大赛；",
+        "“七彩阳光”全国青少加年校园才艺展评；",
+        "“舞动嘉年华”青少年舞蹈艺术展演；",
+        "“舞蹈世界”第七届中外电视台舞蹈大赛。。。。。",
+        "（参与过的比赛众多，不一一列举）",
+        "另外，多次带学生参与中央电视台、北京电视台的节目录制，得到很高评价。",
+        "论文类：",
+        "论文《为小学生“抒写、抒情、抒怀”——浅谈小学舞蹈作品的立意》获北京市中小学第八届“京美杯”征文二等奖。",
+        "论文《律动在小学音乐课堂中应用的探索与实践》获北京市中小学第八届“京美杯”征文二等奖。",
+        "论文《为小学生“抒写、抒情、抒怀”——浅谈小学舞蹈作品的立意》获北京市第七届“京研杯”教育教学研究成果征文三等奖。",
+        "论文《舞蹈教学中动作表现力与规范性的统一》获北京市基础教育科学研究优秀论文三等奖。",
+        "论文《“拮英取华”——美国曼哈顿维尔音乐课程对我国小学音乐教学的启示》获北京市第七届“京研杯”教育教学研究成果征文三等奖。",
+        "实践与科研活动：",
+        "工作期间：",
+        "成立北京市昌平区首个舞蹈教研组，并担任教研组组长，完成“舞蹈教学中动作表现力与规范性的统一”的课题研究，并完成同名论文，代表昌平区参加全国第五届中小学艺术教育科研论文报告会。",
+        "建立学校第一个舞蹈团，排练了的舞蹈剧目获区级学生艺术节一等奖、市级银奖。",
+        "带领舞蹈团的从零开始，原创了音乐剧剧目《勿霾》，从舞蹈到服装都全部原创，获区级学生艺术节一等奖、市级银奖。",
+        "工作期间，协助校长开展了“全课程”“特色课程”等多个课题的研究，完成了“书的味道”读书活动、“做一件让世界更美丽的事”特色资源研讨等多个研究项目，总结了第一手的儿童舞蹈教育研究及活动经验。",
+        "创办工作室至疫情前，共承办6场北京舞蹈学院考级活动，每次考级200人左右，另外，作为总导演，独立举办2场大型汇报演出活动，好评度很高。同时，每年都会带学生参与校内外的各种比赛和演出，在这些活动中，积累了很多组织活动和比赛的经验。",
+        "多次带学生赴加拿大、新加坡、韩国、香港等参加相关的游学交流、比赛等活动。",
+        "舞蹈评委经历：",
+        "多次担任“腾舞中国”青少年舞蹈大赛评委；",
+        "担任“明日之星”全国青少年艺术大赛评委；",
+        "担任北京电视台节目“艺路向前”评委。"
+      ],
+      "source": "https://www.taoliworld.com/judges/yuanyuan-wang/"
+    },
+    {
+      "id": "megan-xu",
+      "name": {
+        "zh": "徐曉默",
+        "en": "Megan Xu"
+      },
+      "photo": "images/judges/preliminary/megan-xu.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024"
+      ],
+      "bio": [
+        "徐曉默畢業於中國民族民間舞蹈最高學府—中央民族大學，舞蹈教育專業。師從池福子，慈仁桑姆等舞蹈名家。徐老師從事舞蹈教育十五年，專注於少兒舞蹈教育已有十年之久，對於中國古典舞和民族民間舞蹈有着豐富的教學經驗，更懂得因材施教。與此同時，徐老師也是一名安省註冊幼兒教師。她本着堅實的教育專業背景和兒童身心發展的專業知識，更好的結合兒童心理和生理特徵，去激發孩子在舞蹈方面的潛力。"
+      ],
+      "source": "https://www.taoliworld.com/judges/megan-xu/"
+    },
+    {
+      "id": "mei-xu",
+      "name": {
+        "zh": "徐梅",
+        "en": "Mei Xu"
+      },
+      "photo": "images/judges/preliminary/mei-xu.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025"
+      ],
+      "bio": [
+        "徐梅，毕业于沈阳音乐学院舞蹈学校，在校六年其间系统地学习和掌握舞蹈艺术，包括中国古典舞，民族民间舞蹈（五大民族的各种舞蹈），芭蕾舞基础以及外国民间代表性舞蹈。来美后,先后教授中国古典舞，中国民族舞,对象包括儿童,青少年及成人.为当地华人的各种庆典和联欢活动,编排舞蹈并参与演出. 2007年至今在瑞华中文学校，及徐梅舞蹈学校担任舞蹈老师教授舞蹈课程。"
+      ],
+      "source": "https://www.taoliworld.com/judges/mei-xu/"
+    },
+    {
+      "id": "linda-yang",
+      "name": {
+        "zh": "楊潔瓊",
+        "en": "Linda Yang"
+      },
+      "photo": "images/judges/preliminary/linda-yang.jpeg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/linda-yang/"
+    },
+    {
+      "id": "hanna-yu",
+      "name": {
+        "zh": "喻灿",
+        "en": "Hanna Yu"
+      },
+      "photo": "images/judges/preliminary/hanna-yu.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025"
+      ],
+      "bio": [
+        "在美国教授中国舞期间，每年编排舞蹈作品超过二十支，获得美国各大舞蹈比赛最高奖,2018-2024期间获奖无数；获得过2024 Sheer Elite Dance Competition 最佳编导；2018 桃李盃大赛最佳编导；2024 Imagine National Dance Challenge 总排名第一和Regional Championship;2024 Showstopper Dance Competition总排名第一; 2024 Sheer Elite Dance Competition 16座排名第一奖杯；2024 Spirit of Dance Awards 10座排名第一奖杯；2024 YAGP professional Dance Competition top 12. 曾受中国驻美大使馆邀请作为舞蹈文化大使出席中美文化交流活动。"
+      ],
+      "source": "https://www.taoliworld.com/judges/hanna-yu/"
+    },
+    {
+      "id": "joyce-zhao",
+      "name": {
+        "zh": "趙藝",
+        "en": "Joyce Zhao"
+      },
+      "photo": "images/judges/preliminary/joyce-zhao.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025",
+        "2023-2024"
+      ],
+      "bio": [
+        "趙藝，中國民族民間舞等級考試認證考級教師，中國舞蹈家協會等級考試認證考級教師。本科畢業於鄭州大學國際教育學院並獲得美國福特海斯州立大學（Fort Hays State University）學士學位。進修於北京舞蹈學院繼續教育學院並獲得結業證書。曾任職於河南省羣星藝術中心並多次帶領學生參與大型演出和比賽。2012年移民加拿大並加入趙莉舞蹈學校。本着從教學出發到舞臺實踐的初心，多年來致力於中國舞在海外的傳播和發展。2018-2023年連續參加國際桃李杯舞蹈大賽，指導的作品多次獲得十佳鉑金獎，桃李精神獎，桃李滿園獎，原創作品獎以及評委特別獎。2019年代表加拿大文藝團體參加北京全國少兒春節聯歡晚會並獲得作品銀獎，最佳團體和最佳指導教師獎。"
+      ],
+      "source": "https://www.taoliworld.com/judges/joyce-zhao/"
+    },
+    {
+      "id": "jasmine-zhang",
+      "name": {
+        "zh": "張珺",
+        "en": "Jasmine Zhang"
+      },
+      "photo": "images/judges/preliminary/jasmine-zhang.jpg",
+      "years": [
+        "2025-2026",
+        "2024-2025"
+      ],
+      "bio": [
+        "張珺JASMINE ZHANG",
+        "院長、藝術總監、教師、編導Principal / Artistic Director",
+        "年輕的編導, 舞蹈家。從1991年學習舞蹈, 十年間完成浙江省藝術學校舞蹈專業課程, 以優異成績畢業於北京舞蹈學院民間舞專業本科穫得學士學位。2008年10月, 成功地舉辦了“茉莉飄香”獨舞專場, 舞蹈技巧上的純熟高超, 舞蹈風格上的濃郁純正, 人物刻畫和表演上的細膩獨道, 是難能所見好評如潮的藝術盛事。2015年榮獲BC省十大傑出女性。2018 年國際桃李盃總決賽中榮獲“桃李滿園獎” 。",
+        "As a young choreographer, Jasmine Zhang started to learn Chinese Classical & Folk Dance in 1991. She had finished a Chinese folk dance professional program at the Beijing Dance Academy and had also taught and studied at the Zhejiang Art School in China. She participated in various performances in different countries. In October of 2008, she co-directed with Ms. Chen Ling, and performed at her solo dance performance, “The Love of Jasmine”. The show was well received by many dance professionals for Jasmine’s excellent dance technique, unique dance style, and great performance. Moreover, Jasmine was very honoured to be awarded with an “Outstanding Women Award” in BC 2015 and a Taoli World Dance Competition “Outstanding Instructor Award” in 2018."
+      ],
+      "source": "https://www.taoliworld.com/judges/jasmine-zhang/"
+    },
+    {
+      "id": "joanna-jin",
+      "name": {
+        "zh": "周娜",
+        "en": "Joanna Jin"
+      },
+      "photo": "images/judges/preliminary/joanna-jin.jpg",
+      "years": [
+        "2024-2025",
+        "2023-2024"
+      ],
+      "bio": [
+        "著名的青年舞蹈家，她畢業於中央民族大學舞蹈學士，後進入紐約大學攻讀舞蹈高等教育碩士。她是中國民族民間舞等級考試認證考級教師，從事中國舞蹈教學已有20多年，並擔任舞蹈比賽評委。曾多次被邀在哈佛大學， 紐約大學等多所美國高校授課，並多次受邀參加聯合國舞蹈文化活動。於2009年創立明珠舞蹈藝術學校，多年來堅持系統教學，積極促進中西舞蹈文化交流. 其指導的學生多次在全美和國際舞蹈比賽中取得的好成績。"
+      ],
+      "source": "https://www.taoliworld.com/judges/joanna-jin/"
+    },
+    {
+      "id": "rose-xinran-qi",
+      "name": {
+        "zh": "齊欣然",
+        "en": "Rose Xinran Qi"
+      },
+      "photo": "images/judges/preliminary/rose-xinran-qi.jpeg",
+      "years": [
+        "2024-2025"
+      ],
+      "bio": [
+        "齐欣然（Rose Xinran Qi）是一位舞蹈教育者和编导，拥有超过25年的专业舞蹈背景，精通当代舞、后现代舞、芭蕾舞及中国古典舞。她获得了山西艺术学院舞蹈表演与编舞学士学位，并在马里兰大学取得舞蹈硕士学位。曾担任马里兰大学和美利坚大学的客座教授，目前在华盛顿学院任教，专注于舞蹈艺术的教育与发展。她的舞蹈教育与创作活跃于美国DMV区域。"
+      ],
+      "source": "https://www.taoliworld.com/judges/rose-xinran-qi/"
+    },
+    {
+      "id": "bin-zhou",
+      "name": {
+        "zh": "周賓",
+        "en": "Bin Zhou"
+      },
+      "photo": "images/judges/preliminary/bin-zhou.jpg",
+      "years": [
+        "2024-2025",
+        "2023-2024",
+        "2022-2023"
+      ],
+      "bio": [
+        "N:Bin Zhou,",
+        "B:08/23/1984",
+        "简历：",
+        "2006年毕业-中央民族大学舞蹈学院（舞蹈教育/表演学士）",
+        "2013年毕业-西南财大MBA工商管理硕士",
+        "泛美国际舞蹈联盟成员",
+        "大型文艺活动导演、策划、舞蹈编导、舞蹈教师；",
+        "中华人民共和国国庆：50、55周年舞蹈演员；60、65周年舞蹈编导、70周年执行导演",
+        "第11届、12届、13届全国运动会开幕式执行导演、舞蹈编导",
+        "第九届全国少数民族传统运动会开幕式执行导演、舞蹈编导",
+        "亚运会开幕式舞蹈编导",
+        "全国第三届少数民族汇演舞蹈编导",
+        "CCTV<星光大道》《七天乐》《开门大吉》《梦想剧场》《我要上春晚》《同一首歌》《欢乐中国行》舞蹈编导、执行导演",
+        "中国孔子文化节开幕式副总导演",
+        "北京奥运会开幕式舞蹈编导",
+        "中国文艺明星足球队公益项目创始人之一",
+        "中国博鳌论坛开幕式现场导演",
+        "中国科技博览会开幕式总导演",
+        "内蒙古成立70周年开幕式副总导演、舞蹈编导",
+        "宁夏回族自治区成立60周年开幕式副总导演、舞蹈编导",
+        "第十四届冬季运动会开幕式舞蹈编导",
+        "2007年发行单曲《十二生肖》《妈妈你现在还好吗》",
+        "北京Lecici艺术中心初创人",
+        "北京傲视翱翔文化传媒有限公司初创人",
+        "N:Bin Zhou,",
+        "B:08/23/1984",
+        "Graduated in 2006 – Dance Academy of Minzu University of China (Bachelor of Dance Education/Performance)",
+        "Graduated in 2013 – MBA of Southwestern University of Finance and Economics",
+        "Member of Pan American International Dance Alliance",
+        "Director, planner, choreographer, and dance teacher of large-scale cultural and artistic activities;",
+        "National Day of the People’s Republic of China: 50th and 55th anniversary dancer; 60th and 65th anniversary choreographer, 70th anniversary executive director",
+        "Executive director and choreographer of the opening ceremony of the 11th, 12th, and 13th National Games",
+        "Executive director and choreographer of the opening ceremony of the 9th National Traditional Games of Ethnic Minorities",
+        "Dance choreographer of the opening ceremony of the Asian Games",
+        "Dance choreographer of the third national ethnic minority performance",
+        "CCTV <Star Boulevard> “Seven Days of Music” “Opening “Men Daji”, “Dream Theater”, “I Want to Go to the Spring Festival Gala”, “The Same Song”, “Happy China Tour” dance choreographer and executive director; Deputy director of the opening ceremony of the Confucius Cultural Festival in China; Dance choreographer of the opening ceremony of the Beijing Olympic Games; One of the founders of the public welfare project of the Chinese Art Star Football Team; On-site director of the opening ceremony of the Boao Forum for China; General director of the opening ceremony of the China Science and Technology Expo; Deputy director and dance choreographer of the opening ceremony of the 70th anniversary of the founding of Inner Mongolia; Deputy director and dance choreographer of the opening ceremony of the 60th anniversary of the founding of the Ningxia Hui Autonomous Region; Dance choreographer of the opening ceremony of the 14th Winter Games; Released the singles “The Twelve Zodiac Signs” and “Mom, Are You Okay Now” in 2007; One of the founders of Beijing Lecici Art Center ，Founder of Beijing Aoshi Aoxiang Culture Media Co., Ltd."
+      ],
+      "source": "https://www.taoliworld.com/judges/bin-zhou/",
+      "aliases": [
+        "Jason Zhou"
+      ]
+    },
+    {
+      "id": "yuanheng-dong",
+      "name": {
+        "zh": "董元恆",
+        "en": "Yuanheng Dong"
+      },
+      "photo": "images/judges/preliminary/yuanheng-dong.jpg",
+      "years": [
+        "2023-2024",
+        "2022-2023"
+      ],
+      "bio": [
+        "董元恆",
+        "著名青年舞蹈家、中國東方歌舞團主要演員、北京電影學院戲劇表演專業碩士",
+        "董元恆，著名青年舞蹈家，畢業於北京舞蹈學院民族民間舞系，後考入北京電影學院戲劇表演專業攻讀碩士，繼續探索研學舞臺表演的肢體語言在影視演員表演創作中的重要作用。現任職於中國東方歌舞團主要演員，戲劇代表作品《伊菲革涅亞在淘洛人裏》、《我是如何學會開車的》；舞蹈代表作品《高原雨》、《幻沙魅惑》、《麵包樹下》、《沙漠的花朵》、《火熱的飛裙》等，同時代表中國東方歌舞團赴世界各地參演多場大型舞蹈專場、歌舞晚會、國際文化藝術交流等重要活動，並擔任主要角色。其舞蹈代表作品《幻沙魅惑》角色被譽為「宛如埃及女王再世」。"
+      ],
+      "source": "https://www.taoliworld.com/judges/yuanheng-dong/"
+    },
+    {
+      "id": "summer-kong",
+      "name": {
+        "zh": "孔子佳",
+        "en": "Summer Kong"
+      },
+      "photo": "images/judges/preliminary/summer-kong.jpg",
+      "years": [
+        "2023-2024",
+        "2022-2023"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/summer-kong/"
+    },
+    {
+      "id": "lin-niu",
+      "name": {
+        "zh": "牛琳",
+        "en": "Lin Niu"
+      },
+      "photo": "images/judges/preliminary/lin-niu.jpg",
+      "years": [
+        "2023-2024"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/lin-niu/"
+    },
+    {
+      "id": "zhang-qian",
+      "name": {
+        "zh": "张茜",
+        "en": "Zhang Qian"
+      },
+      "photo": "images/judges/preliminary/zhang-qian.jpg",
+      "years": [
+        "2023-2024"
+      ],
+      "bio": [
+        "校以来，张校长以扎实的教学理念和丰富的教学经验，成功开设了英国皇家芭蕾舞等级课程，并引导学生参加RAD芭蕾舞考级。她自2020年起通过多门课程学习，并不断提升自己的教学水平。在教学过程中，张校长注重培养学生的自信心和舞蹈技能，致力于为每一位学生提供受益终身的舞蹈培 张茜校长毕业于中国陕西师范大学舞蹈教育专业，并获得硕士学位。她不仅具备深厚的舞蹈教育背景，更于2021年取得了英国皇家芭蕾舞等级考试舞蹈教师资格证书（Royal Academy of Dance Certificate in Ballet Teaching Studies）。这个证书代表着国际认可，使得她能够注册为英国皇家舞蹈学院的注册教师，为学生提供更广阔的学习和发展空间。",
+        "此外，张校长还获得了“中国民族民间舞考级教师资格证书”10-12级，这使得她在中国舞及芭蕾舞领域具备了丰富的专业教学经验和资格。在过去的十多年里，她一直致力于小天鹅艺术学校的发展，将学校打造成为一所全功能舞蹈培训场地的综合性教育基地。",
+        "小天鹅艺术学校自2008年建训和艺术熏陶。",
+        "张茜校长作为小天鹅艺术学校的校长和舞蹈比赛指导老师，以其丰富的教育背景、专业的教师资格和优异的教学成绩，为学校赢得了良好的声誉。她的专业素养和团队领导能力使得学生在各项比赛中获得了成功，同时也展现了小天鹅艺术学校在舞蹈领域的卓越水平.",
+        "教育背景：",
+        "– 中国陕西师范大学舞蹈教育专业硕士学位",
+        "– 英国皇家芭蕾舞等级考试舞蹈教师资格证书（Royal Academy of Dance Certificate in Ballet Teaching Studies）",
+        "– 中国民族民间舞考级教师资格证书（10-12级）",
+        "工作经历：",
+        "– 担任小天鹅艺术学校校长",
+        "– 舞蹈比赛指导老师，带领学生参加多项舞蹈比赛，包括2021， 2022， 2022， 2024年桃李杯预赛和决赛，取得优异成绩",
+        "– 泛美会员，积极参与泛美组织的各类活动和比赛",
+        "个人特点与成就：",
+        "– 具备深厚的舞蹈教育背景和国际认可的教师资格证书",
+        "– 在教学和指导方面有丰富的经验，擅长指导学生备赛和比赛过程中的技巧和表现",
+        "– 在桃李杯等比赛中，学校和学生们取得非常优异的成绩，展现了良好的团队合作和个人才华",
+        "– 具有良好的沟通能力和团队合作精神，能够有效协调学生、家长和比赛组织方的关系，保证比赛顺利进行",
+        "– 中英文流利， 具有良好的语言表达能力。"
+      ],
+      "source": "https://www.taoliworld.com/judges/zhang-qian/"
+    },
+    {
+      "id": "juan-zheng",
+      "name": {
+        "zh": "鄭娟",
+        "en": "Juan Zheng"
+      },
+      "photo": "images/judges/preliminary/juan-zheng.jpg",
+      "years": [
+        "2023-2024",
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [
+        "畢業於北京舞蹈學院附中和北京舞蹈學院民族舞劇系(古典舞系)表演專業，在校期間主修中國古典舞，參與中國古典舞身韻女班教材示範工作。隨學院舞團出訪多個國家進行文藝交流演出活動。畢業後留校任教於北京舞蹈學院附中，教授中國古典舞基訓、身韻和舞蹈劇目。指導學生參加全國桃李盃舞蹈比賽並獲獎。參與了中國古典團扇教材的編排及示範表演工作。被邀請在北京舞蹈學院繼續教育學院學院教授中國古典舞身韻。 之後進入德國福克旺藝術學院學習，獲藝術大師證及碩士學位。學習期間參與了學院舞蹈節及科隆青年藝術節表演。來美後致力於推廣和教授中國古典舞和中國民族民間舞。被邀請在Detroit Ballet和Detroit Dance City Festival教中國舞名師課。 2018年開始帶學生參加國桃並獲得多個最高獎。自2022年起任國桃初評級評審。"
+      ],
+      "source": "https://www.taoliworld.com/judges/juan-zheng/"
+    },
+    {
+      "id": "nicole-li",
+      "name": {
+        "zh": "李寶",
+        "en": "Nicole Li"
+      },
+      "photo": "images/judges/preliminary/nicole-li.jpg",
+      "years": [
+        "2022-2023"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/nicole-li/"
+    },
+    {
+      "id": "jiajie-zhou",
+      "name": {
+        "zh": "周家潔",
+        "en": "Jiajie Zhou"
+      },
+      "photo": "images/judges/preliminary/jiajie-zhou.jpg",
+      "years": [
+        "2022-2023",
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/jiajie-zhou/"
+    },
+    {
+      "id": "xiaoxi-liu",
+      "name": {
+        "zh": "Xiaoxi Liu",
+        "en": "Xiaoxi Liu"
+      },
+      "photo": "images/judges/preliminary/xiaoxi-liu.jpg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/xiaoxi-liu/"
+    },
+    {
+      "id": "bella-ma",
+      "name": {
+        "zh": "馬嘉佩",
+        "en": "Bella Ma"
+      },
+      "photo": "images/judges/preliminary/bella-ma.jpeg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/bella-ma/"
+    },
+    {
+      "id": "xia-shi",
+      "name": {
+        "zh": "石霞",
+        "en": "Xia Shi"
+      },
+      "photo": "images/judges/preliminary/xia-shi.jpeg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/xia-shi/"
+    },
+    {
+      "id": "wanyi-wang",
+      "name": {
+        "zh": "王婉怡",
+        "en": "Wanyi Wang"
+      },
+      "photo": "images/judges/preliminary/wanyi-wang.jpeg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/wanyi-wang/"
+    },
+    {
+      "id": "wei-wang",
+      "name": {
+        "zh": "王薇",
+        "en": "Wei Wang"
+      },
+      "photo": "images/judges/preliminary/wei-wang.jpeg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/wei-wang/"
+    },
+    {
+      "id": "mengxue-zhang",
+      "name": {
+        "zh": "張夢雪",
+        "en": "Mengxue Zhang"
+      },
+      "photo": "images/judges/preliminary/mengxue-zhang.jpeg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/mengxue-zhang/"
+    },
+    {
+      "id": "jinyu-zhou",
+      "name": {
+        "zh": "周金瑜",
+        "en": "Jinyu Zhou"
+      },
+      "photo": "images/judges/preliminary/jinyu-zhou.jpg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/jinyu-zhou/"
+    },
+    {
+      "id": "hangyu-zhou",
+      "name": {
+        "zh": "周航宇",
+        "en": "Hangyu Zhou"
+      },
+      "photo": "images/judges/preliminary/hangyu-zhou.jpg",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": "https://www.taoliworld.com/judges/hangyu-zhou/"
+    },
+    {
+      "id": "lucia-liu",
+      "name": {
+        "zh": "Lucia Liu",
+        "en": "Lucia Liu"
+      },
+      "photo": "",
+      "years": [
+        "2021-2022"
+      ],
+      "bio": [],
+      "source": ""
+    }
+  ]
+}

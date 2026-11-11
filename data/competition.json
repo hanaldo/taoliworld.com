@@ -1,0 +1,62 @@
+{
+  "season": "2026-2027",
+  "events": [
+    {
+      "location": {
+        "zh": "線上地區半決賽",
+        "en": "Online regionals"
+      },
+      "date": "2027.02.20–02.21"
+    },
+    {
+      "location": {
+        "zh": "拉斯維加斯",
+        "en": "Las Vegas"
+      },
+      "date": "2027.03.13"
+    },
+    {
+      "location": {
+        "zh": "卡爾加里",
+        "en": "Calgary"
+      },
+      "date": "2027.04.04"
+    },
+    {
+      "location": {
+        "zh": "北加州",
+        "en": "Northern California"
+      },
+      "date": "2027.04.09–04.10"
+    },
+    {
+      "location": {
+        "zh": "芝加哥",
+        "en": "Chicago"
+      },
+      "date": "2027.05.01–05.02"
+    },
+    {
+      "location": {
+        "zh": "多倫多",
+        "en": "Toronto"
+      },
+      "date": "2027.05.22–05.23"
+    },
+    {
+      "location": {
+        "zh": "線上地區半決賽",
+        "en": "Online regionals"
+      },
+      "date": "2027.06.12–06.13"
+    },
+    {
+      "location": {
+        "zh": "全球總決賽 · 紐約",
+        "en": "Grand finals · New York"
+      },
+      "finals": true,
+      "date": "2027.07.09–07.11"
+    }
+  ]
+}

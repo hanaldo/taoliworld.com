@@ -1,0 +1,13 @@
+{
+  "url": "https://taoli.hopelab.com/",
+  "zh": {
+    "title": "建立參賽帳號",
+    "description": "點擊後將前往賽事報名網站 taoli.hopelab.com，建立帳號並辦理比賽報名。已有帳號可直接登入。",
+    "label": "前往報名網站"
+  },
+  "en": {
+    "title": "Create a competition account",
+    "description": "Continue to our registration website, taoli.hopelab.com, to create an account and register for a competition. Already have an account? Sign in there.",
+    "label": "Go to registration website"
+  }
+}

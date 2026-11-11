@@ -1,0 +1,200 @@
+{
+  "zh": {
+    "notice": "今年的參賽規則有稍許改變，請仔細查詢以下規則",
+    "preliminary": {
+      "title": "海選資格",
+      "html": "<p>近三個賽季內曾參加過泛美國際桃李盃舞蹈大賽的學校或參賽單位，無需再次參加海選，可直接報名區域賽。<br>\n首次參加泛美國際桃李盃舞蹈大賽的學校或參賽單位，須先通過海選，方可報名區域賽。海選須於預計參加的區域賽日期至少兩個月前完成。<br>\n海選之報名方式、視頻要求及相關資訊，請提前與賽事組委會聯繫。</p>"
+    },
+    "sections": [
+      {
+        "id": "registration",
+        "title": "報名須知",
+        "html": "<ul>\n<li>參賽作品原則上須以學校或團體為單位統一報名，不得由家長或學生自行建立學校或團體帳號。如以獨立參賽者身份參賽，請在參賽單位（Organization）一欄註明「個人（Individual）」。</li>\n<li>各場賽事參賽名額有限，組委會將依完成報名的先後順序安排參賽；額滿後將提前截止報名。</li>\n<li>報名老師或參賽單位負責人須於報名網站完整、準確填寫所有參賽資訊，並於提交前仔細核對舞者、作品名稱、舞種、組別、等級及其他相關資料。</li>\n<li>參賽單位負責人須於提交報名前仔細閱讀並同意賽事相關規則及免責聲明。實際參賽人員、作品內容及呈現方式應與報名資料一致，參賽單位有責任確保所有提交資訊真實、完整且準確。</li>\n<li>報名完成後，參賽人員、作品、組別、等級等資料不得擅自更改或替換。如確有調整需要，須至少於比賽日前 2週 向組委會提出申請，並經組委會同意後方可更改。最終版比賽順序公布後，如因參賽者或參賽單位個人原因要求調整比賽順序，該作品將失去參與小組第一、舞種第一、桃李精神獎及評委特別獎評選的資格。</li>\n<li>如遇不可預見或不可抗力之情況，泛美舞蹈聯盟（PACDA）及賽事組委會保留調整比賽日期、時間、場次、地點或增加比賽日的權利。如因報名人數未達賽事最低舉辦標準而取消該場賽事，組委會將退還已收取的相關賽事費用。</li>\n<li>在賽事已達最低舉辦人數並確認舉行後，如因參賽者或參賽單位自身原因無法如期參賽，已繳交的報名費用恕不退還。如參賽者因受傷或生病無法參賽，須提供有效醫療證明；經組委會審核確認後，已繳交的報名費可保留 一年，用於下一賽季相關賽事。</li>\n<li>名師課程報名一經確認，於課程開始前 24小時內取消或未出席者，恕不接受退款。</li>\n<li>組委會保留特殊邀請權。經組委會審核或由主辦方特別推薦的作品，可獲邀直接參加總決賽。</li>\n</ul>\n<p><strong> </strong><strong>本次大賽的所有條例及最終解釋權歸賽事組委會所有。</strong></p>"
+      },
+      {
+        "id": "safety",
+        "title": "安全須知",
+        "html": "<ul>\n<li>舞蹈作為一項肢體活動，具有一定的風險，包括但不限於扭傷，擦傷，肌肉拉傷及骨折等。參賽者應確保自身身體狀況適合參賽，並充分了解及自行承擔在比賽、排練、候場及相關活動過程中可能發生的身體損傷風險。</li>\n<li>參與本賽事即表示參賽者已了解並接受上述相關風險。泛美舞蹈聯盟（PACDA）、泛美國際桃李盃舞蹈大賽及其工作人員、合作單位與相關人員，對因參賽及相關活動所可能產生的意外或傷害，將不承擔相關責任。</li>\n<li>請參賽者妥善保管個人物品，切勿將現金、電子產品、首飾或其他貴重物品留置於劇場、更衣室、後台或其他無人看管的區域。泛美舞蹈聯盟（PACDA）及泛美國際桃李盃舞蹈大賽對任何個人物品的遺失、損壞或被盜概不負責。</li>\n<li>舞台上禁止使用易燃物品、易碎道具、利器或其他可能危及人員及場地安全的物品。具有鈍邊的模擬武器或特殊道具，須事先向組委會申報並經核准後方可使用。</li>\n<li>舞台上禁止使用液體、油漆、凝膠、粉末或其他可能造成舞台濕滑、污染或安全隱患的物質。</li>\n<li>所有道具原則上須為獨立設置，不得擅自固定、懸掛或連接於劇場及舞台設備。所有特殊道具及其使用方式均須事先向組委會申報並取得核准；未經審核的道具不得於比賽舞台上使用。</li>\n<li>參賽者及參賽單位應共同維護舞台安全。表演結束後，所有道具及遺留物品須立即清除，並確保舞台恢復整潔及安全狀態。</li>\n<li>任何違反賽事或場地安全規定、可能危及參賽者、工作人員、觀眾或場地安全的行為，組委會有權要求停止使用或移除相關道具；嚴重者，組委會有權取消該作品的參賽資格。</li>\n</ul>"
+      },
+      {
+        "id": "rules",
+        "title": "比賽規則",
+        "html": "<ul>\n<li>所有參賽作品必須遵守泛美國際桃李盃舞蹈大賽之各項比賽規則，包括但不限於舞蹈種類、參賽組別、年齡組別、作品時長、道具使用及安全規定。</li>\n<li>參賽作品的舞蹈動作、音樂、歌詞、服裝及整體呈現應適合各年齡層及家庭觀眾欣賞。如作品含有過度露骨、暗示性、不雅或其他不適宜內容，或音樂中含有粗俗、不雅或不適合公開播放的歌詞，組委會有權視情況予以扣分或取消參賽資格。</li>\n<li>比賽及頒獎典禮期間，未經組委會事先許可，觀眾不得使用專業攝影、錄影設備、三腳架、獨腳架或其他可能妨礙觀眾視線及現場秩序的設備。拍攝及錄影須遵守比賽場地及組委會之相關規定。</li>\n<li>所有道具及佈景均須符合本規則中<strong>道具使用</strong>要求之相關規定，並確保不影響舞者、工作人員、舞台設備及場地安全。</li>\n<li>所有伴奏音樂須依照<strong>伴奏音樂</strong>相關規定，於指定截止日期前上傳至報名系統。參賽單位有責任確認所提交之音樂版本正確且可正常播放。</li>\n<li>所有評委之評分及評審結果均為最終結果。組委會不接受因對評委評分、名次或獎項結果不同意而提出的重新評分要求；如發現成績計算、參賽資料或系統記錄存在技術性錯誤，可向組委會提出核查申請。</li>\n</ul>"
+      },
+      {
+        "id": "schedule",
+        "title": "比賽時程",
+        "html": "<p><em>請注意：</em><em>如果您是第一次參加泛美國際桃李盃，必須在您希望參加的區域賽前至少2個月參加海選。詳細資訊，請和組委會聯繫。</em></p>\n<p><strong>區域賽：</strong></p>\n<ul>\n<li>錄播賽 1：2027年2月20日 – 2月21日</li>\n<li>拉斯維加斯：2027年3月13日 – 3月14日</li>\n<li>加拿大卡爾加里：2027年4月4日</li>\n<li>北加州：2027年4月9日 – 4月10日</li>\n<li>芝加哥：2027年5月1日 – 5月2日</li>\n<li>加拿大多倫多：2027年5月22日 – 5月23日</li>\n<li>錄播賽 2：2027年6月12日 – 6月13日</li>\n</ul>\n<p><strong>決賽：</strong></p>\n<ul>\n<li>紐約：2027年7月9日 – 7月11日</li>\n</ul>"
+      },
+      {
+        "id": "entries",
+        "title": "參賽形式",
+        "html": "<ul>\n<li>每位參賽舞者於同一場區域賽或錄播賽中，每個舞蹈種類僅限參加一個獨舞、雙人舞或三人舞作品，群舞不受此限制。例：舞者如已報名中國古典舞獨舞，則不得於同一場賽事中再報名中國古典舞雙人舞或三人舞，但仍可參加中國古典舞群舞。</li>\n<li>如舞者希望以不同作品參加同一舞蹈種類，可選擇報名其他場次的區域賽或錄播賽。</li>\n<li>如同一位舞者於不同區域賽或錄播賽中，有多個同一舞蹈種類的獨舞、雙人舞或三人舞作品取得總決賽參賽資格，則須自行選擇其中一個作品參加總決賽；群舞不受此限制。</li>\n</ul>\n<ul>\n<li>\n<ul>\n<li>獨舞</li>\n<li>雙人舞/三人舞</li>\n<li>小群舞（4-9人）</li>\n<li>大群舞（10-24人）</li>\n<li>劇目（25人以上）</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "id": "levels",
+        "title": "參賽組別",
+        "html": "<p>參賽組別應根據舞者的整體舞蹈學習經驗及每週訓練時數做出合理判斷。每週訓練時數包含所有舞蹈種類的團體課，小班課，私教課，排練及舞蹈相關的體能訓練，並非僅計算本次參賽舞種的訓練時間。</p>\n<ul>\n<li>愛好組Recreational – 每週練習約2小時</li>\n<li>中階組Intermediate – 每週練習約2-5小時</li>\n<li>進階組Advanced – 每週練習約5-8小時</li>\n<li>高階組 Pre-Professional – 每週練習8小時以上</li>\n<li>職業組 Professional – 以舞蹈表演或教學為職業</li>\n</ul>\n<p>雙人舞/三人舞/群舞：</p>\n<p>參賽組別以該作品所有參賽舞者中之<strong>最高組別</strong>為準。例如，群舞中如大部分舞者屬於中階組，但其中一位舞者符合進階組資格，則該作品應報名為<strong>進階組。</strong></p>\n<p><strong> </strong><strong>組委會及評委有權根據參賽者實際訓練背景及現場表現，對明顯不符合所報組別的作品進行組別調整。</strong></p>"
+      },
+      {
+        "id": "categories",
+        "title": "舞蹈種類",
+        "html": "<p>請仔細確認舞蹈風格歸入正確的舞蹈種類。登記錯誤可能導致評審扣分或調整舞種。</p>\n<ul>\n<li>中國古典舞 Chinese Classical Dance</li>\n<li>中國民族民間舞 Chinese Folk Dance</li>\n<li>中國當代舞Contemporary Chinese Dance</li>\n<li>古典芭蕾舞Classical Ballet</li>\n<li>當代芭蕾 Contemporary Ballet</li>\n<li>現當代舞 Lyrical/Contemporary</li>\n<li>兒童舞 Children’s Dance</li>\n<li>其他 Open（如：國際標準舞，爵士，等）</li>\n</ul>"
+      },
+      {
+        "id": "ages",
+        "title": "年齡組別",
+        "html": "<p>參賽年齡統一以 <strong>2027年1月1日</strong> 為年齡計算基準日；雙人舞、三人舞及群舞則以所有參賽舞者的平均年齡計算所屬年齡組別</p>\n<ul>\n<li>幼兒組：5-7歲</li>\n<li>兒童A組：8-10歲</li>\n<li>兒童B組：11-12歲</li>\n<li>少年A組：13-15歲</li>\n<li>少年B組：16-18歲</li>\n<li>青年A組：19-29歲</li>\n<li>青年B組：30-35歲</li>\n<li>成人A組：36-49歲</li>\n<li>成人B組：50-70歲</li>\n</ul>"
+      },
+      {
+        "id": "time-limits",
+        "title": "作品時長",
+        "html": "<ul>\n<li><strong>獨舞，雙人舞，三人舞：</strong>3分鐘內</li>\n<li><strong>小群舞：</strong>4分鐘內</li>\n<li><strong>大群舞：</strong>5分鐘內</li>\n<li><strong>劇目：</strong>7分鐘內</li>\n</ul>\n<ul>\n<li>加時費用：如有加時需求，需要經過申請，支付加時費用</li>\n<li>加時上限為2分鐘，不接受超時超過2分鐘的舞蹈</li>\n</ul>"
+      },
+      {
+        "id": "scoring",
+        "title": "評分標準",
+        "html": "<ul>\n<li>參賽作品均由評委進行評分，評分標準由組委會統一制定。作品最終成績將在扣除評委評分中的一個最高分及一個最低分後，取其餘評分的平均分作為最終得分。</li>\n<li>參賽作品的舞蹈動作、音樂、歌詞、服裝及整體呈現應符合賽事規範，並適合各年齡層觀眾。如被認定含有過度暗示、不雅、不當或其他不適宜內容，組委會有權視情況予以扣分或取消參賽資格。</li>\n<li>參賽單位應於報名時正確選擇舞蹈種類、年齡組別及參賽組別。如報名資料與實際參賽情況不符，組委會及評委有權視情況調整組別、扣分或取消相關獎項評選資格。</li>\n<li>所有道具均須事先向組委會申報並取得核准。表演結束後，參賽者須立即將所有道具及遺留物品清理完畢。如因道具使用不當、未經核准使用道具，或未及時清理而影響舞台安全及後續比賽進行，組委會有權視情況予以扣分或取消參賽資格。</li>\n<li>所有評委評分及評審結果均為最終結果。評委將依據作品當日現場呈現進行專業評定，不接受因個人對分數、名次或獎項結果不同意而提出的重新評分要求。若發現成績計算、參賽資料或系統記錄存在技術性錯誤，可向組委會提出核查申請。</li>\n</ul>"
+      },
+      {
+        "id": "music",
+        "title": "伴奏音樂",
+        "html": "<ul>\n<li>組委會僅接受 MP3格式 的伴奏音樂。</li>\n<li>所有伴奏音樂須於組委會規定的截止日期前上傳至報名系統，逾期可能不予受理。參賽單位應於上傳完成後自行確認音樂檔案、作品名稱及版本正確，並確保檔案可正常播放。</li>\n<li>參賽單位須於比賽當日自行準備一份備用伴奏音樂，並儲存於USB隨身碟中，以備現場緊急使用。</li>\n<li>如因參賽單位所提供的音樂檔案錯誤、損壞、無法播放或上傳錯誤版本等原因影響比賽，組委會不承擔相關責任。</li>\n<li>如比賽現場因設備或其他技術因素造成音樂播放異常，請立即由參賽單位負責人與現場工作人員溝通，組委會將視實際情況安排重新播放或其他適當處理方式。</li>\n</ul>"
+      },
+      {
+        "id": "video",
+        "title": "舞蹈視頻",
+        "html": "<ul>\n<li>所有參賽視頻須於規定的截止日期前上傳至報名系統，逾期提交的視頻可能不予受理。</li>\n<li>組委會僅接受 MP4格式 的視頻文件，檔案大小須介於 20MB–250MB 之間。所有參賽視頻均須直接上傳至指定的報名系統，不接受以其他方式提交。</li>\n<li>參賽視頻須為提交日期前 2個月內拍攝的完整視頻。組委會有權要求參賽單位提供相關資料進行核實；如發現視頻不符合規定，可能影響該作品的參賽或晉級資格。</li>\n<li>視頻中所有舞者必須與該作品報名資料中的參賽者一致，不得由他人代替參賽。如發現冒名、替代參賽或其他不正當行為，組委會有權取消該作品的參賽資格及相關成績。</li>\n<li>為確保評審公平，視頻拍攝背景應盡量保持簡潔、乾淨，避免出現字幕、學校名稱或標誌、舞者姓名及其他可能顯示參賽單位或舞者身份的資訊。</li>\n<li>參賽視頻必須採用一鏡到底的方式完整錄製。不得進行剪輯、拼接、變速、特效、畫面修正或其他可能影響作品真實呈現的後期處理。違反者，組委會有權取消該作品的參賽資格。</li>\n<li>視頻須以橫向、寬屏方式拍攝。建議使用固定機位及適當廣角，避免頻繁移動或縮放鏡頭，並確保舞者全身及完整舞蹈動作清晰可見。</li>\n<li>拍攝環境須保持充足光線，畫面清晰穩定；視頻中的伴奏音樂須清楚、完整，避免明顯雜音、失真或其他影響評審的聲音。</li>\n<li>參賽單位應於提交前自行確認視頻內容、參賽舞者、作品版本、畫面、聲音及檔案均正確且可正常播放。因上傳錯誤、文件損壞或提交錯誤版本所造成的影響，由參賽單位自行承擔。</li>\n</ul>"
+      },
+      {
+        "id": "photos",
+        "title": "劇照要求",
+        "html": "<ul>\n<li>所有參賽作品均須提交 2張舞蹈劇照，包括 1張直式照片及1張橫式照片。</li>\n<li>劇照中的舞者應穿著與參賽作品相符的正式演出服裝及妝容。照片須清晰、畫質良好，背景應保持簡潔乾淨，避免出現與作品無關的文字、標誌或其他影響畫面的內容。</li>\n<li>所提交的舞蹈劇照可能用於賽事相關的社交媒體宣傳、賽事推廣、節目展示、頒獎典禮及賽後宣傳等用途。</li>\n<li>參賽單位應於組委會規定的截止日期前完成劇照上傳，並自行確認照片及作品資料正確。如未按時提交劇照，組委會將無法保證該作品的照片及相關資訊能於頒獎典禮、現場展示或賽事宣傳中呈現。</li>\n</ul>"
+      },
+      {
+        "id": "props",
+        "title": "道具使用",
+        "html": "<ul>\n<li>所有道具及佈景必須安全、穩固，不得有尖銳邊緣、易碎部件、危險材料或其他可能對舞者、工作人員、舞台設備造成傷害或損壞的設計。</li>\n<li>所有道具及佈景必須能夠通過比賽場地的標準後台入口，並能在組委會規定的時間內快速完成搬運、擺放及撤除。因道具或佈景搭建、拆卸時間過長而造成比賽延誤，組委會有權視情況扣分或限制該道具的使用。</li>\n<li>舞台上嚴禁使用明火、煙火、利器、真實武器及其他具有危險性的物品。鈍頭、無鋒利邊緣的模擬武器或特殊道具，須事先向組委會申報，並經批准後方可使用。</li>\n<li>舞台上禁止使用液體、顏料、凝膠、氣霧劑、亮片、煙霧、粉末、油漆粉、灰燼、氦氣球，以及任何可能造成舞台濕滑、污染、損壞或影響舞蹈地板安全的類似物質。</li>\n<li>所有道具及佈景原則上必須為獨立式，不得固定、懸掛或連接於劇場的舞台、燈光、吊桿、布幕或其他場地設備。需要使用吊桿懸掛的佈景或背景布幕不得使用。</li>\n<li>所有道具及佈景須由參賽舞者、帶隊老師或參賽單位工作人員自行搬運、擺放及撤除。未經許可，不得要求劇場或賽事工作人員協助搬運或操作。</li>\n<li>表演結束後，參賽單位須立即將所有道具、佈景及舞台上的任何遺留物清理完畢，並確保舞台恢復至乾淨、安全且不影響下一個作品演出的狀態。</li>\n<li>任何經組委會或場地方認定為不安全、不符合場地規定、可能損壞舞台設備或可能造成賽事延誤的道具及佈景，組委會有權禁止使用或要求立即移除；如因此影響比賽進行，組委會有權視情況予以扣分或取消參賽資格。</li>\n</ul>"
+      },
+      {
+        "id": "content",
+        "title": "舞蹈內容",
+        "html": "<ul>\n<li>參賽作品內容應健康、積極向上，適合各年齡層觀眾欣賞，注重藝術美育及身心健康，並鼓勵具有藝術性、文化性及時代精神的舞蹈作品。</li>\n<li>參賽作品不得含有仇恨、歧視、暴力美化、色情、過度暗示、不雅或其他不適合各年齡層觀眾的內容。</li>\n<li>不接受以宗教宣傳、宗教誤導、政治宣傳或政治倡議為主要目的之參賽作品。</li>\n<li>如作品內容、音樂、歌詞、服裝、道具或整體呈現被組委會認定不符合賽事宗旨或上述規定，組委會有權要求參賽單位進行調整；情節嚴重者，可拒絕作品參賽或取消其參賽資格。</li>\n</ul>\n<p><strong>組委會保留對參賽作品內容是否符合賽事規範的最終審核及決定權。</strong></p>"
+      },
+      {
+        "id": "awards",
+        "title": "獎項設定",
+        "html": "<p>TBD </p>"
+      },
+      {
+        "id": "advancement",
+        "title": "晉級總決賽",
+        "html": "<ul>\n<li>在區域賽中獲得符合晉級資格獎項的作品，可取得當賽季總決賽參賽資格。總決賽名額有限，將依不同獎項分梯次開放報名；各梯次均採先到先得方式，總名額額滿後，報名系統將自動關閉，即使已取得晉級資格亦不保證總決賽參賽名額。</li>\n<li>總決賽報名將依以下順序分梯次開放：\n<ul>\n<li>第一梯次： 區域賽中獲得十佳鉑金獎及特別獎項的作品；</li>\n<li>第二梯次： 區域賽中獲得鉑金獎及各小組第一的作品；</li>\n<li>第三梯次： 區域賽中獲得金獎的作品。</li>\n</ul>\n</li>\n<li>各梯次之報名開放及截止日期將由組委會另行公布。取得晉級資格的作品須於所屬梯次規定時間內完成報名及繳費；逾期未完成報名者，組委會有權將名額開放予下一梯次。</li>\n<li>如同一位舞者於不同區域賽或錄播賽中，有多個同一舞蹈種類的獨舞、雙人舞或三人舞作品取得總決賽資格，須自行選擇其中一個作品參加總決賽；群舞不受此限制。</li>\n<li>總決賽報名完成後，如賽事已達最低舉辦人數且賽程已確認，因參賽者或參賽單位自身原因無法如期參賽，已繳交之比賽費用恕不退還。如舞者因受傷或生病無法參賽，須提供有效醫療證明；經組委會審核確認後，已繳交的報名費可保留一年，用於下一賽季相關賽事報名費用。</li>\n</ul>"
+      },
+      {
+        "id": "fees",
+        "title": "參賽費用",
+        "html": "<p><strong>海選</strong></p>\n<ul>\n<li>單/雙/三人舞 – 每個作品 美金$30</li>\n<li>群舞 – 每個作品 美金$50</li>\n</ul>\n<p><strong>區域賽</strong></p>\n<ul>\n<li>獨舞 – 每人 美金</li>\n<li>雙人/三人舞 – 每人 美金</li>\n<li>群舞 – 每人 美金</li>\n<li>超時費 – </li>\n</ul>\n<p><strong>總決賽</strong></p>\n<ul>\n<li>獨舞 – 每人 美金</li>\n<li>雙人/三人舞 – 每人 美金</li>\n<li>群舞 – 每人 美金</li>\n<li>超時費 – </li>\n</ul>\n<ul>\n<li>現任泛美會員學校或泛美現任會員可享有每支舞蹈 美金$5的優惠</li>\n<li>除非以個人名義參賽，報名費請以學校或團體為單位，集體支付</li>\n<li>報名費支付方式：\n<ul>\n<li>用Zelle®(Bank of America, Chase, Wells Fargo等各大銀行的轉賬方式)<a href=\"mailto:payment@pandance.org\">轉賬到payment@pandance.org</a>。以Zelle方式付款，每支舞蹈可以享有美金$2的優惠。</li>\n<li>學校，團體：轉賬時請註明學校或團體名稱；個人：轉賬時請註明舞蹈名稱</li>\n<li>使用信用卡：\n<ul>\n<li>區域賽 獨舞 雙人／三人舞 群舞</li>\n<li>總決賽 獨舞 雙人／三人舞 群舞</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>報名費用需在報名後2天內繳清；如未在規定日期前繳清，將視為棄賽！</p>"
+      }
+    ]
+  },
+  "en": {
+    "notice": "Please see all details below in the Rules and Regulations",
+    "preliminary": {
+      "title": "Preliminary",
+      "html": "<p>Dance Schools and Organizations that have participated in the past 3 seasons do not need to participate in the preliminary again and can directly register for the Regional Competition.<br>\nFist time participating in the Taoli World Dance Competition must pass the Preliminary before registering for the Regional Competition.  The Preliminary must be completed at least two months before the expected date of the Regional Competition.<br>\nFor registering Preliminary, please contact the Taoli World Dance Organizing Committee in advance.</p>"
+    },
+    "sections": [
+      {
+        "id": "registration",
+        "title": "Registration Guidelines",
+        "html": "<ul>\n<li>All entries must be registered collectively by a school or organization. Parents or students may not create a school or organization account on their own. Independent participants should enter “Individual” in the Organization field.</li>\n<li>Entries will be accepted in the order in which completed registrations are received, and registration may close early once capacity is reached.</li>\n<li>The registering teacher or organization representative must enter complete and accurate information in the registration system and carefully verify dancer names, routine title, dance category, age group division, competitive level, and all other relevant information before submission.</li>\n<li>Before submitting an entry, the organization representative must carefully review and agree to all competition rules and waivers. The actual participants, routine content, and presentation must be consistent with the registration information. The participating organization is responsible for ensuring that all submitted information is true, complete, and accurate.</li>\n<li>After registration is completed, participant names, routines, divisions, levels, and other information may not be changed or substituted without approval. If an adjustment is necessary, a request must be submitted to the Organizing Committee at least two weeks before the competition and may only be made after approval. Once the final competition schedule has been published, a routine that requests a schedule change for reasons attributable to the participant or participating organization will become ineligible for Highest Overall in Age/Level, Highest in Dance Category, the Taoli Spirit Award, and the Judges’ Choice Award.</li>\n<li>In the event of unforeseen circumstances or force majeure, the Pan America Chinese Dance Alliance (PACDA) and the Organizing Committee reserve the right to adjust competition dates, times, sessions, locations, or add competition days. If an event is canceled because registration does not meet the minimum requirement, the competition-related fees collected by the Organizing Committee will be refunded.</li>\n<li>Once an event has met the minimum participation requirement and is confirmed to proceed, registration fees are non-refundable if a participant or participating organization is unable to attend for personal reasons. If a participant is unable to compete due to injury or illness, valid medical documentation must be provided. Upon approval by the Organizing Committee, the registration fee may be credited for one year toward a competition in the following season.</li>\n<li>Once a Master Class registration is confirmed, cancellations made within 24 hours of the class start time, as well as no-shows, are non-refundable.</li>\n<li>The Organizing Committee reserves the right to issue special invitations. Routines reviewed by the Organizing Committee or specially recommended by the organizer may be invited directly to the Grand Finals.</li>\n</ul>\n<p><strong>The Organizing Committee retains final authority over the interpretation and determination of all competition rules, regulations, and related matters.</strong></p>"
+      },
+      {
+        "id": "safety",
+        "title": "Safety Guidelines",
+        "html": "<ul>\n<li>Dance is a physical activity that involves inherent risks, including but not limited to sprains, abrasions, muscle strains, and fractures. Participants must ensure that they are physically fit to participate and acknowledge and assume the risks of possible physical injury during the competition, rehearsals, backstage waiting periods, and related activities.</li>\n<li>Participation in the competition constitutes acknowledgment and acceptance of the above risks. PACDA, the Taoli World Dance Competition, its staff, partner organizations, and related personnel will not be held responsible for accidents or injuries arising from participation in the competition or related activities.</li>\n<li>Participants are responsible for safeguarding their personal belongings. Cash, electronics, jewelry, and other valuables should not be left unattended in the theater, dressing rooms, backstage areas, or other locations. PACDA and the Taoli World Dance Competition are not responsible for lost, damaged, or stolen personal property.</li>\n<li>Flammable items, breakable props, sharp objects, or other items that may endanger people or the venue are prohibited on stage. Blunt-edged simulated weapons or special props may be used only with prior approval from the Organizing Committee.</li>\n<li>Liquids, paint, gel, powder, or other substances that may make the stage slippery, cause contamination, or create a safety hazard are prohibited.</li>\n<li>Props must generally be freestanding and may not be attached, suspended, or connected to theater or stage equipment without authorization. All special props and their intended use must be declared to and approved by the Organizing Committee in advance. Unapproved props may not be used on the competition stage.</li>\n<li>Participants and participating organizations must help maintain stage safety. All props and debris must be removed immediately after a performance, and the stage must be returned to a clean and safe condition.</li>\n<li>Any violation of competition or venue safety rules, or any conduct that may endanger participants, staff, audience members, or the venue, may result in the removal or prohibition of the relevant prop. Serious violations may result in disqualification. The Organizing Committee retains final authority on all safety matters.</li>\n</ul>"
+      },
+      {
+        "id": "rules",
+        "title": "Competition Rules",
+        "html": "<ul>\n<li>All routines must comply with the rules of the Taoli World Dance Competition, including but not limited to dance category, competitive level, age division, routine duration, prop use, and safety requirements.</li>\n<li>Dance movements, music, lyrics, costumes, and overall presentation must be suitable for audiences of all ages and for family viewing. Routines containing overly explicit, suggestive, indecent, or otherwise inappropriate content, or music containing vulgar, indecent, or unsuitable lyrics, may receive a score deduction or be disqualified.</li>\n<li>During the competition and award ceremony, audience members may not use professional photography or video equipment, tripods, monopods, or other equipment that may obstruct sightlines or disrupt the event without prior approval from the Organizing Committee. Photography and video recording must comply with venue and Organizing Committee policies.</li>\n<li>All props and sets must comply with the Prop and Set Requirements in these rules and must not compromise the safety of dancers, staff, stage equipment, or the venue.</li>\n<li>All accompaniment music must be uploaded by the specified deadline in accordance with the Music Requirements. Participating organizations are responsible for confirming that the submitted music version is correct and playable.</li>\n<li>All judges’ scores and adjudication results are final. Requests for rescoring based solely on disagreement with scores, rankings, or awards will not be accepted. Technical errors involving score calculations, registration information, or system records may be submitted to the Organizing Committee for verification.</li>\n</ul>"
+      },
+      {
+        "id": "schedule",
+        "title": "Competition Schedule",
+        "html": "<p><strong><em>Please Note：</em></strong><em>If this is your first time participating in the Taoli World Dance Competition, the Preliminary is required 2 months before registering for the Regional Competition.  For detailed information, please contact the TWLD Organizing Committee.</em></p>\n<p><strong>Regional Competitions：</strong></p>\n<ul>\n<li>Broadcast Competition 1: February 20–21, 2027</li>\n<li>Las Vegas, NV: March 13–14, 2027</li>\n<li>Calgary, Canada: April 4, 2027 (Tentative)</li>\n<li>San Jose, California: April 9–10, 2027</li>\n<li>Chicago, IL: May 1-2, 2027 (Tentative)</li>\n<li>Toronto, Canada: May 22–23, 2027</li>\n<li>Broadcast Competition 2: June 12–13, 2027</li>\n</ul>\n<p><strong>Grand Finals：</strong></p>\n<ul>\n<li>Bayside, NY: July 9-11, 2027</li>\n</ul>"
+      },
+      {
+        "id": "entries",
+        "title": "Type of Entries",
+        "html": "<ul>\n<li>At the same Regional Competition or Broadcast Competition, each dancer may enter only one Solo, Duet, or Trio routine within the same dance category. Group dances are exempt from this restriction. For example, a dancer entered in a Chinese Classical Dance Solo may not also enter a Chinese Classical Dance Duet or Trio at the same event, but may still participate in a Chinese Classical Dance Group routine.</li>\n<li>A dancer wishing to enter a different routine in the same dance category may register for another Regional Competition or Broadcast</li>\n<li>If the same dancer qualifies for the Grand Finals with multiple Solo, Duet, or Trio routines in the same dance category through different Regional Competitions or Broadcast Competitions, the dancer must select one of those routines for the Grand Finals. Group dances are exempt.</li>\n</ul>\n<ul>\n<li>\n<ul>\n<li>Solo</li>\n<li>Duet/Trio</li>\n<li>Small Group（4-9 dancers）</li>\n<li>Large Group（10-24 dancers）</li>\n<li>Production（25 or more dancers）</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "id": "levels",
+        "title": "Comeptition Levels",
+        "html": "<p>Competition levels should be selected based on the dancer’s overall dance experience, weekly training hours, and skill level. Weekly training includes all dance styles, group classes, small-group classes, private lessons, rehearsals, and dance-related conditioning.</p>\n<ul>\n<li>Recreational – approximately 2 hours of training per week</li>\n<li>Intermediate – approximately 2–5 hours of training per week</li>\n<li>Advanced – approximately 5–8 hours of training per week</li>\n<li>Pre-Professional – 8 or more hours of training per week</li>\n<li>Professional – dancers whose profession is dance performance or dance instruction</li>\n</ul>\n<p>Duet/Trio/Group Dances：</p>\n<p>The routine must be entered at the highest competitive level represented by any dancer in the routine. For example, if most dancers in a group are Intermediate but one dancer qualifies as Advanced, the routine must be entered in the Advanced level.</p>\n<p><strong>The Organizing Committee and judges reserve the right to adjust the competitive level of a routine that clearly does not match the level entered, based on the participant’s training background and performance.</strong></p>"
+      },
+      {
+        "id": "categories",
+        "title": "Dance Categories",
+        "html": "<p>Please carefully select the correct dance category for each routine. Incorrect classification may result in a score deduction or category adjustment.</p>\n<ul>\n<li>Chinese Classical Dance</li>\n<li>Chinese Folk Dance</li>\n<li>Contemporary Chinese Dance</li>\n<li>Classical Ballet</li>\n<li>Contemporary Ballet</li>\n<li>Lyrical/Contemporary</li>\n<li>Children’s Dance</li>\n<li>Open (e.g., Ballroom, Jazz, Hip Pop, )</li>\n</ul>"
+      },
+      {
+        "id": "ages",
+        "title": "Age Group Divisions",
+        "html": "<p>Competition age is calculated as of January 1, 2027. For Duets, Trios, and Groups, the age group division is determined by the average age of all participating dancers.</p>\n<ul>\n<li>Young Children: Ages 5–7</li>\n<li>Children Group A: Ages 8–10</li>\n<li>Children Group B: Ages 11–12</li>\n<li>Teen Group A: Ages 13–15</li>\n<li>Teen Group B: Ages 16–18</li>\n<li>Young Adult A: Ages 19–29</li>\n<li>Young Adult B: Ages 30–35</li>\n<li>Adult Group A: Ages 36–49</li>\n<li>Adult Group B: Ages 50–70</li>\n</ul>"
+      },
+      {
+        "id": "time-limits",
+        "title": "Routine Time Limits",
+        "html": "<ul>\n<li>Solo, Duet, and Trio: up to 3 minutes</li>\n<li>Small Group: up to 4 minutes</li>\n<li>Large Group: up to 5 minutes</li>\n<li>Production: up to 7 minutes</li>\n</ul>\n<ul>\n<li>Extended Time Fee: Any request for additional time must be submitted for approval and is subject to an additional fee.</li>\n<li>Maximum extension: 2 minutes. Routines exceeding the standard time limit by more than 2 minutes will not be accepted.</li>\n</ul>"
+      },
+      {
+        "id": "scoring",
+        "title": "Scoring Standards",
+        "html": "<ul>\n<li>All competition routines will be scored by the judges according to standards established by the Organizing Committee. The highest and lowest judges’ scores will be removed, and the average of the remaining scores will be the routine’s final score.</li>\n<li>Dance movements, music, lyrics, costumes, and overall presentation must comply with competition standards and be appropriate for audiences of all ages. Content considered overly suggestive, indecent, inappropriate, or otherwise unsuitable may result in a score deduction or disqualification.</li>\n<li>Participating organizations must select the correct dance category, age group division, and competition level at registration. If registration information does not match the actual entry, the Organizing Committee and judges may adjust the category or level, deduct points, or remove eligibility for certain awards.</li>\n<li>All props must be declared to and approved by the Organizing Committee in advance. After the performance, participants must immediately remove all props and debris. Improper prop use, use of unapproved props, or failure to promptly clear the stage when it affects safety or the competition schedule may result in a score deduction or disqualification.</li>\n<li>All judges’ scores and adjudication results are final. Judges evaluate routines based on the performance presented on the day of competition. Requests for rescoring based solely on disagreement with scores, rankings, or awards will not be accepted. If there is a technical error involving score calculation, registration data, or system records, a verification request may be submitted to the Organizing Committee.</li>\n</ul>"
+      },
+      {
+        "id": "music",
+        "title": "Music Requirements",
+        "html": "<ul>\n<li>The Organizing Committee accepts music in MP3 format only.</li>\n<li>All music must be uploaded to the registration system by the required. Late submissions may not be accepted. After uploading, the participants must verify that the music file, routine title, and version are correct and that the file plays properly.</li>\n<li>Each participant must bring a backup copy of the music on a USB flash drive on competition day for emergency use.</li>\n<li>The Organizing Committee is not responsible for problems caused by incorrect, corrupted, unplayable, or incorrectly uploaded music files provided by the participants.</li>\n<li>If music playback is disrupted at the venue due to equipment or other technical issues, the participating organization representative should immediately communicate with event staff. The Organizing Committee will determine whether to restart the music or take other appropriate action based on the circumstances.</li>\n</ul>"
+      },
+      {
+        "id": "video",
+        "title": "Dance Video Requirements",
+        "html": "<ul>\n<li>All competition videos must be uploaded to the registration system by the stated deadline. Late submissions may not be accepted.</li>\n<li>Only MP4 video files are accepted. File size must be between 20MB and 250MB. All videos must be uploaded directly to the designated registration system; submissions through other methods will not be accepted.</li>\n<li>Competition videos must be complete recordings made within two months prior to the submission date. The Organizing Committee may request supporting information for verification. A video that does not meet this requirement may affect the routine’s eligibility to compete or advance.</li>\n<li>All dancers shown in the video must match the participants listed on the registration. Substitution or impersonation is prohibited. If such conduct or other improper behavior is discovered, the Organizing Committee may disqualify the routine and void related results.</li>\n<li>To help ensure fair adjudication, the video background should be clean and simple. Avoid subtitles, school names or logos, dancer names, or other information that may identify the dancer or participating organization.</li>\n<li>The video must be recorded continuously in one take. Editing, splicing, speed changes, special effects, image correction, or other post-production that may affect the authenticity of the performance is prohibited. Violations may result in disqualification.</li>\n<li>Videos must be filmed horizontally in widescreen orientation. A fixed camera position and appropriate wide-angle framing are recommended. Avoid frequent camera movement or zooming, and ensure that the dancer’s full body and complete movement are clearly visible.</li>\n<li>Lighting must be sufficient and the image clear and stable. Music in the video must be clear and complete, without significant background noise, distortion, or other sound issues that may interfere with adjudication.</li>\n<li>Before submission, the participating organization must verify that the video content, dancers, routine version, image, audio, and file are correct and playable. The participating organization is responsible for consequences caused by upload errors, damaged files, or submission of an incorrect version.</li>\n</ul>"
+      },
+      {
+        "id": "photos",
+        "title": "Dance Photo Requirements",
+        "html": "<ul>\n<li>Each competition routine must submit two dance photos: one vertical photo and one horizontal photo.</li>\n<li>Dancers should wear the formal performance costume and makeup corresponding to the competition routine. Photos must be clear and high quality, with a clean and simple background and without unrelated text, logos, or distracting elements.</li>\n<li>Submitted dance photos may be used for competition-related social media, event promotion, program displays, award ceremonies, and post-event publicity.</li>\n<li>Participating organizations must upload the photos by the deadline established by the Organizing Committee and verify that the photos and routine information are correct. If photos are not submitted on time, the Organizing Committee cannot guarantee that the routine’s photos and related information will appear in the award ceremony, on-site displays, or promotional materials.</li>\n</ul>"
+      },
+      {
+        "id": "props",
+        "title": "Prop and Set Requirements",
+        "html": "<ul>\n<li>All props and sets must be safe and stable and may not contain sharp edges, breakable components, hazardous materials, or other designs that could injure dancers or staff or damage stage equipment.</li>\n<li>All props and sets must fit through the venue’s standard backstage entrance and must be capable of being carried on, positioned, and removed within the time allowed by the Organizing Committee. Excessive setup or removal time that delays the competition may result in a score deduction or restriction on the use of the prop.</li>\n<li>Open flames, pyrotechnics, sharp objects, real weapons, and other hazardous items are strictly prohibited on stage. Blunt, non-sharp simulated weapons or special props may be used only after prior declaration to and approval by the Organizing Committee.</li>\n<li>Liquids, pigments, gels, aerosols, glitter, smoke, powders, paint powder, ashes, helium balloons, or similar materials that may make the stage slippery, cause contamination or damage, or compromise the safety of the dance floor are prohibited.</li>\n<li>Props and sets must generally be freestanding and may not be attached, suspended, or connected to the theater’s stage, lighting, fly system, curtains, or other venue equipment. Sets or backdrops requiring overhead rigging may not be used.</li>\n<li>All props and sets must be carried, positioned, and removed by the participating dancers, teachers, or participating organization staff. Theater or competition staff may not be asked to move or operate props without prior authorization.</li>\n<li>Immediately after the performance, the participating organization must remove all props, sets, and debris and return the stage to a clean and safe condition that does not interfere with the next routine.</li>\n<li>Any prop or set deemed unsafe, noncompliant with venue rules, potentially damaging to stage equipment, or likely to delay the competition may be prohibited or removed. If its use affects the competition, the Organizing Committee may impose a score deduction or disqualify the routine.</li>\n</ul>"
+      },
+      {
+        "id": "content",
+        "title": "Dance Content Requirements",
+        "html": "<ul>\n<li>Competition routines should present healthy and positive content appropriate for audiences of all ages, support artistic education and physical and emotional well-being, and are encouraged to demonstrate artistic, cultural, and contemporary relevance.</li>\n<li>Competition routines may not contain hatred, discrimination, glorification of violence, sexual content, excessive suggestiveness, indecency, or other material unsuitable for audiences of all ages.</li>\n<li>Entries whose primary purpose is religious promotion, religious misrepresentation, political propaganda, or political advocacy will not be accepted.</li>\n<li>If the Organizing Committee determines that a routine’s content, music, lyrics, costume, props, or overall presentation does not comply with the competition’s purpose or the above requirements, it may require adjustments. Serious violations may result in refusal of the entry or disqualification.</li>\n</ul>\n<p><strong>The Organizing Committee retains final authority to review and determine whether competition content complies with event standards.</strong></p>"
+      },
+      {
+        "id": "awards",
+        "title": "Awards",
+        "html": "<p>TBD </p>"
+      },
+      {
+        "id": "advancement",
+        "title": "Advancement to the Grand Finals",
+        "html": "<ul>\n<li>Routines receiving awards that meet the advancement criteria at a Regional Competition are eligible to register for the Grand Finals in the same competition season. Grand Finals capacity is limited, and registration will open in tiers based on award level. Registration is first-come, first-served within each tier. Once total capacity is reached, the registration system will close automatically. Qualification does not guarantee a place in the Grand Finals.</li>\n<li>Grand Finals registration will open in the following tiers:\n<ul>\n<li>Tier 1: Routines receiving the Elite Platinum Award and the Taoli Spirit Awards at a Regional Competition.</li>\n<li>Tier 2: Routines receiving the Platinum Award and Highest Overall at a Regional Competition.</li>\n<li>Tier 3: Routines receiving the Gold Award at a Regional Competition.</li>\n</ul>\n</li>\n<li>Opening and closing dates for each registration round will be announced separately by the Organizing Committee.  Qualified routines must complete reigstration and payment within the designated period.  If registration is not completed by the deadline, the Organizing Committee may release the available space to the next registration round.</li>\n<li>If the same dancer qualifies for the Grand Finals through different Regional Competitions or Video Competitions with multiple Solo, Duet, or Trio routines in the same dance category, the dancer must select one routine for the Grand Finals.  Group dances are exempt from this restriction.</li>\n<li>After Grand Finals registration is completed, if the event has met the minimum participation requirement and the competition schedule has been confirmed, competition fees are non-refundable if a participant or participating organization is unable to attend for personal reasons.  If a dancer cannot participate due to injury or illness, a valid medical document must be provided.  Upon approval by the Organizing Committee, the registration fee may be credited for one year toward registration fees for the following competition season.</li>\n</ul>"
+      },
+      {
+        "id": "fees",
+        "title": "Registration Fees",
+        "html": "<p><strong>Preliminary</strong></p>\n<ul>\n<li>Solo/Duet/Trio – each routine USD $30</li>\n<li>Group Dance – each routine USD $50</li>\n</ul>\n<p><strong>Regional Competition</strong></p>\n<ul>\n<li>Solo</li>\n<li>Duet</li>\n<li>Trio</li>\n<li>Group</li>\n<li>Extended Time Fee</li>\n</ul>\n<p><strong>Grand Finals</strong></p>\n<ul>\n<li>Solo</li>\n<li>Duet</li>\n<li>Trio</li>\n<li>Group</li>\n<li>Extended Time Fee</li>\n</ul>\n<ul>\n<li>Current PACDA member schools or current PACDA members receive a US$5 discount per routine.</li>\n<li>Except for independent entries, registration fees must be paid collectively by the school or organization.</li>\n</ul>\n<p>Payment Methods:</p>\n<ul>\n<li>Zelle® (available through Bank of America, Chase, Wells Fargo, and other participating banks): send payment to payment@pandance.org. Payments made by Zelle receive a US$2 discount per routine.\n<ul>\n<li>For schools and organizations, include the school or organization name in the payment memo. For individual entries, include the routine title.</li>\n</ul>\n</li>\n<li>Credit Card (TBD)</li>\n</ul>\n<p><strong>Registration fees must be paid in full within two days after registration. Failure to complete payment by the required deadline will be treated as withdrawal from the competition.</strong></p>"
+      }
+    ]
+  }
+}
