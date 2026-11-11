@@ -4,19 +4,21 @@ Vue Router uses normal paths such as `/contact` and `/news/festival-2024`.
 
 ## Build for your address
 
-For a custom domain or a user/organization site at `https://USERNAME.github.io/`:
+The default build targets `https://hanaldo.github.io/taoliworld.com/`:
 
 ```sh
 npm run build
 ```
 
-For a project site at `https://USERNAME.github.io/REPOSITORY/`:
+Upload the **contents** of `dist` into the GitHub Pages publishing folder, not the `dist` folder itself. Replace the previous `index.html`, `404.html`, `restore-route.js`, and asset files together. Wait for GitHub Pages deployment to finish, then refresh the website.
+
+If you later switch to a custom domain at its root:
 
 ```sh
-SITE_BASE=/REPOSITORY/ npm run build
+SITE_BASE=/ npm run build
 ```
 
-Replace REPOSITORY with the exact repository name. In GitHub Actions, set `SITE_BASE` on the build step. The base must begin and end with `/`.
+For a different project repository, use `SITE_BASE=/REPOSITORY/ npm run build`. In GitHub Actions, set `SITE_BASE` on the build step. The base must begin and end with `/`.
 
 Publish the entire contents of `dist`, including `404.html` and `restore-route.js`. Do not upload the unbuilt source as the website.
 
