@@ -1,0 +1,550 @@
+{
+  "about_taoli": {
+    "zh": "關於桃李",
+    "en": "About Taoli"
+  },
+  "competition": {
+    "zh": "賽事資訊",
+    "en": "Competition"
+  },
+  "our_judges": {
+    "zh": "權威評審",
+    "en": "Our judges"
+  },
+  "news": {
+    "zh": "桃李動態",
+    "en": "News"
+  },
+  "media": {
+    "zh": "影像藝廊",
+    "en": "Media"
+  },
+  "contact": {
+    "zh": "聯繫我們",
+    "en": "Contact"
+  },
+  "news_stories": {
+    "zh": "桃李動態",
+    "en": "News & stories"
+  },
+  "media_gallery": {
+    "zh": "影像藝廊",
+    "en": "Media gallery"
+  },
+  "registration": {
+    "zh": "參賽報名",
+    "en": "Registration"
+  },
+  "competition_guidelines": {
+    "zh": "參賽指南",
+    "en": "Competition guidelines"
+  },
+  "awards": {
+    "zh": "獲獎名單",
+    "en": "Awards"
+  },
+  "our_story": {
+    "zh": "關於桃李",
+    "en": "Our story"
+  },
+  "taoli_world": {
+    "zh": "泛美國際桃李盃",
+    "en": "Taoli World"
+  },
+  "skip_to_content": {
+    "zh": "跳至主要內容",
+    "en": "Skip to content"
+  },
+  "taoli_world_alternate": {
+    "zh": "泛美國際桃李盃",
+    "en": "TAOLI WORLD"
+  },
+  "dance_competition": {
+    "zh": "TAOLI WORLD DANCE COMPETITION",
+    "en": "DANCE COMPETITION"
+  },
+  "main_navigation": {
+    "zh": "主選單",
+    "en": "Main navigation"
+  },
+  "mobile_navigation": {
+    "zh": "行動版主選單",
+    "en": "Mobile navigation"
+  },
+  "home": {
+    "zh": "首頁",
+    "en": "HOME"
+  },
+  "page_not_found": {
+    "zh": "頁面未找到",
+    "en": "Page not found"
+  },
+  "page_tagline": {
+    "zh": "以舞為橋，讓熱愛與世界相遇。",
+    "en": "Artistry, connection, and a world of possibility."
+  },
+  "hero_tagline": {
+    "zh": "以中國舞之美，與世界相遇",
+    "en": "CHINESE ROOTS. A WORLD OF POSSIBILITY."
+  },
+  "hero_description": {
+    "zh": "讓每一份熱愛被看見，讓每一個夢想盡情綻放。\n泛美國際桃李盃，與你共赴世界的舞臺。",
+    "en": "A place for passion to be seen and dreams to flourish.Discover your next chapter at Taoli World Dance Competition."
+  },
+  "about_taoli_alternate": {
+    "zh": "了解桃李",
+    "en": "About Taoli"
+  },
+  "hero_values": {
+    "zh": "傳承 · 表達 · 連接",
+    "en": "HERITAGE · EXPRESSION · CONNECTION"
+  },
+  "scroll_to_explore": {
+    "zh": "向下探索",
+    "en": "SCROLL TO EXPLORE"
+  },
+  "back_to_home": {
+    "zh": "返回首頁",
+    "en": "Back to home"
+  },
+  "judges_description": {
+    "zh": "以專業的目光，發現每一位舞者的可能。\n與舞蹈藝術的引路人，一起走向更廣闊的舞臺。",
+    "en": "Discover new possibilities through the eyes of dance professionals.\nMeet the artists who guide the journey."
+  },
+  "stories_from_our_world": {
+    "zh": "桃李動態",
+    "en": "Stories from our world"
+  },
+  "view_all_news": {
+    "zh": "查看所有動態",
+    "en": "View all news"
+  },
+  "search_stories": {
+    "zh": "搜尋動態",
+    "en": "Search stories"
+  },
+  "no_matching_stories": {
+    "zh": "沒有符合的動態，試試其他關鍵字。",
+    "en": "No matching stories. Try another search."
+  },
+  "explore_the_full_gallery": {
+    "zh": "探索完整藝廊",
+    "en": "Explore the full gallery"
+  },
+  "photos": {
+    "zh": "照片",
+    "en": "Photos"
+  },
+  "videos": {
+    "zh": "影片",
+    "en": "Videos"
+  },
+  "video_preview_title": {
+    "zh": "桃李光影 · 動態設計預覽",
+    "en": "Taoli in motion · Design preview"
+  },
+  "video_preview_description": {
+    "zh": "此短片由歷史照片製作，正式演出影片即將更新。",
+    "en": "A motion study made from archive photographs. Performance films will follow."
+  },
+  "taoli_moments": {
+    "zh": "桃李映像",
+    "en": "TAOLI MOMENTS"
+  },
+  "contact_description": {
+    "zh": "關於賽事、參賽或合作，歡迎透過以下電子郵件聯繫我們。",
+    "en": "For competition, participation, or partnership enquiries, contact us at the email below."
+  },
+  "follow_us": {
+    "zh": "關注我們",
+    "en": "Follow us"
+  },
+  "more_ways_to_connect": {
+    "zh": "更多聯繫方式",
+    "en": "More ways to connect"
+  },
+  "email_us": {
+    "zh": "電郵聯繫",
+    "en": "Email us"
+  },
+  "write_to_us": {
+    "zh": "歡迎來信",
+    "en": "We'd love to hear from you"
+  },
+  "reply_note": {
+    "zh": "我們通常會於三個工作日內回覆。",
+    "en": "We usually reply within three business days."
+  },
+  "wechat_official_account": {
+    "zh": "微信公眾號",
+    "en": "WeChat Official Account"
+  },
+  "wechat_scan_note": {
+    "zh": "使用微信「掃一掃」關注「泛美舞蹈联盟资讯」，獲取賽事最新動態。",
+    "en": "Scan with WeChat to follow PanAmerica Dance Alliance News for the latest updates."
+  },
+  "official_account": {
+    "zh": "官方賬號",
+    "en": "Official account"
+  },
+  "douyin": {
+    "zh": "抖音",
+    "en": "Douyin"
+  },
+  "back_to_all_stories": {
+    "zh": "返回所有動態",
+    "en": "Back to all stories"
+  },
+  "details_coming_soon": {
+    "zh": "資訊即將公布",
+    "en": "Details coming soon"
+  },
+  "information_pending": {
+    "zh": "我們正在整理本頁資訊，確認後將於此公布。",
+    "en": "We are preparing this information and will publish it here once confirmed."
+  },
+  "page_not_found_alternate": {
+    "zh": "找不到此頁面",
+    "en": "Page not found"
+  },
+  "copyright": {
+    "zh": "泛美舞蹈聯盟 · 版權所有",
+    "en": "Pan America Chinese Dance Alliance. All rights reserved."
+  },
+  "back_to_top": {
+    "zh": "返回頂部",
+    "en": "Back to top"
+  },
+  "image_viewer": {
+    "zh": "圖片檢視",
+    "en": "Image viewer"
+  },
+  "close": {
+    "zh": "關閉",
+    "en": "Close"
+  },
+  "previous_image": {
+    "zh": "上一張",
+    "en": "Previous image"
+  },
+  "next_image": {
+    "zh": "下一張",
+    "en": "Next image"
+  },
+  "hero_video_label": {
+    "zh": "歷史照片動態預覽",
+    "en": "Archive photo motion preview"
+  },
+  "dance_language": {
+    "zh": "舞，是與世界對話的語言",
+    "en": "DANCE IS OUR UNIVERSAL LANGUAGE"
+  },
+  "video_unavailable": {
+    "zh": "影片暫不可用 · 顯示封面",
+    "en": "Video unavailable · poster shown"
+  },
+  "archive_preview": {
+    "zh": "歷史照片 · 動態預覽",
+    "en": "ARCHIVE PHOTO MOTION PREVIEW"
+  },
+  "pause_video": {
+    "zh": "暫停背景影片",
+    "en": "Pause background video"
+  },
+  "play_video": {
+    "zh": "播放背景影片",
+    "en": "Play background video"
+  },
+  "mute_video": {
+    "zh": "靜音背景影片",
+    "en": "Mute background video"
+  },
+  "unmute_video": {
+    "zh": "開啟背景影片聲音",
+    "en": "Unmute background video"
+  },
+  "about_competition_body": {
+    "zh": "“國際桃李盃舞蹈大賽”由美國泛美舞蹈聯盟主辦，隆重推出業權威的評審團，他們的目光只為註視你而存在！在他們的關註和親切指導下，每位選手可以盡情演繹自我，用美妙的舞姿，展現人間的悲歡離合，可以揮灑對幸福、美好的渴望，歡呼和諧世界的進步與發展。",
+    "en": "The Taoli Cup Dance Competition was created by renowned dance educator Professor Pan Zhitao, who also founded the original Taoli Cup in China. The competition is organized by the Pan America Chinese Dance Alliance (PACDA). One of its most important goals is to discover and cultivate new talent."
+  },
+  "about_history_title": {
+    "zh": "一部舞蹈史詩，就是一部人類文明發展史。",
+    "en": "A dance epic is a history of the development of human civilization."
+  },
+  "about_history_body": {
+    "zh": "中華舞蹈厚重精深，西方舞藝靈動曼妙。”國際桃李盃舞蹈大賽”，一個薈萃東方民族絕紗舞姿的舞臺，一個全面展示西方形體藝術的窗口，2015年在洛杉磯揭開大幕。這是東西方舞蹈藝術交融、碰撞的青少年國際舞蹈新品牌。",
+    "en": "The competition also serves to showcase the achievements of dance instructors in both the U.S. and China, promote higher standards of teaching and performance, stimulate new dance creations, and advance the development of dance all over the world."
+  },
+  "about_dialogue_body": {
+    "zh": "來吧，舞者——到這裏向舞蹈藝術致以最誠摯的敬禮；來吧，舞者——到這裏與世界舞蹈藝術進行最友好的對話。",
+    "en": "The panel of judges assembled for this competition includes some of the most celebrated artists in the international dance community. Under their observation and guidance, the contestants can express themselves to the fullest."
+  },
+  "about_touring_body": {
+    "zh": "“國際桃李盃舞蹈大賽”，給你一個夢想成真的機會。優秀的獲獎作品將有機會參加國際巡演，將舞蹈推向更廣闊的世界舞台！",
+    "en": "Through their dance, the contestants can tell stories of life’s ebb and flow, convey their desires for happiness, and celebrate progress toward greater harmony in the world. Selected dances from the regional competitions will advance to the final competition. Award-winning dances and groups will have opportunities to be invited to participate in national and international tours."
+  },
+  "about_pacda_body": {
+    "zh": "泛美舞蹈聯盟是一個在美國合法註冊的501(c)(3)非盈利組織。聯盟旨在傳承和發揚中華舞蹈文化，為協助在海外的舞蹈老師開展教育工作，並提供優質平臺給華人舞蹈愛好者，尤其為海外的下一代傳承中華舞蹈文化提供豐富資源及一個與時俱進的國際性舞蹈交流平臺。",
+    "en": "Our mission is to promote Chinese dance art and creations, train Chinese dance teachers and professional dancers, provide a platform for dance competitions, master classes, and activities, enrich cultural life, and create opportunities for effective and substantive cross-cultural exchanges in the performing arts between Chinese dancers and teachers in the U.S. and dance professionals in China."
+  },
+  "about_visit_pacda": {
+    "zh": "前往泛美舞蹈聯盟",
+    "en": "Go to Pan America Chinese Dance Alliance"
+  },
+  "about_logo_alt": {
+    "zh": "國際桃李盃舞蹈大賽標誌",
+    "en": "Taoli World Dance Competition logo"
+  },
+  "about_history_alt": {
+    "zh": "舞臺上身穿黑白服裝的群舞舞者",
+    "en": "An ensemble of dancers in black and white costumes on stage"
+  },
+  "about_dancers_alt": {
+    "zh": "桃李盃舞臺上揮舞彩綢的舞者",
+    "en": "Dancers performing with colorful silk scarves on the Taoli stage"
+  },
+  "about_awards_alt": {
+    "zh": "桃李盃頒獎舞臺上的獎盃與嘉賓",
+    "en": "A trophy presentation with guests on the Taoli awards stage"
+  },
+  "season_announcement": {
+    "zh": "2026–2027 賽季 · 讓熱愛登上世界舞臺",
+    "en": "2026–2027 SEASON · YOUR PASSION, A WORLD STAGE"
+  },
+  "competition_eyebrow": {
+    "zh": "THE NEXT CHAPTER",
+    "en": "THE NEXT CHAPTER"
+  },
+  "competition_information": {
+    "zh": "賽事資訊",
+    "en": "Competition information"
+  },
+  "season_schedule": {
+    "zh": "賽季賽程",
+    "en": "Season schedule"
+  },
+  "registration_open": {
+    "zh": "海選報名正式啟動",
+    "en": "Registration now open"
+  },
+  "competition_location": {
+    "zh": "賽區／地點",
+    "en": "Region / location"
+  },
+  "competition_dates": {
+    "zh": "比賽日期",
+    "en": "Competition dates"
+  },
+  "view_schedule_details": {
+    "zh": "查看詳細賽程",
+    "en": "View detailed schedule"
+  },
+  "schedule_details": {
+    "zh": "詳細賽程與報名截止日期",
+    "en": "Detailed schedule & registration deadlines"
+  },
+  "schedule_image_alt": {
+    "zh": "2026–2027 桃李盃詳細賽程：比賽日期、報名與資料提交截止日期及場地。",
+    "en": "2026–2027 Taoli competition schedule with competition dates, registration and submission deadlines, and venues."
+  },
+  "know_your_competition": {
+    "zh": "比賽規則與須知",
+    "en": "Know your competition"
+  },
+  "guidelines_description": {
+    "zh": "從組別到參賽要求，為每一次登臺做好準備。",
+    "en": "Explore the categories and guidelines. Prepare for your moment."
+  },
+  "read_the_guidelines": {
+    "zh": "閱讀參賽指南",
+    "en": "Read the guidelines"
+  },
+  "every_achievement_matters": {
+    "zh": "每一份努力，值得銘記",
+    "en": "Every achievement matters"
+  },
+  "awards_description": {
+    "zh": "回顧歷屆獲獎名單，見證舞者的成長與榮光。",
+    "en": "Explore past results and celebrate the artistry of our dancers."
+  },
+  "explore_the_awards": {
+    "zh": "查看獲獎名單",
+    "en": "Explore the awards"
+  },
+  "schedule_loading": {
+    "zh": "正在載入賽程…",
+    "en": "Loading schedule…"
+  },
+  "schedule_unavailable": {
+    "zh": "暫時無法載入賽程，請重新整理頁面再試。",
+    "en": "The schedule could not be loaded. Please refresh the page to try again."
+  },
+  "guidelines_season": {
+    "zh": "2026–2027 賽季 · 參賽指南",
+    "en": "2026–2027 SEASON · PARTICIPANT GUIDE"
+  },
+  "guidelines_contents": {
+    "zh": "本頁目錄",
+    "en": "ON THIS PAGE"
+  },
+  "guidelines_questions": {
+    "zh": "對參賽規則有疑問？",
+    "en": "Questions about the guidelines?"
+  },
+  "guidelines_loading": {
+    "zh": "正在載入參賽指南…",
+    "en": "Loading guidelines…"
+  },
+  "guidelines_unavailable": {
+    "zh": "暫時無法載入參賽指南，請稍後重新整理頁面。",
+    "en": "Guidelines are temporarily unavailable. Please refresh the page later."
+  },
+  "registration_loading": {
+    "zh": "正在載入報名資訊…",
+    "en": "Loading registration information…"
+  },
+  "registration_unavailable": {
+    "zh": "暫時無法載入報名資訊，請重新整理頁面。",
+    "en": "Registration information is temporarily unavailable. Please refresh the page."
+  },
+  "judges_eyebrow": {
+    "zh": "GUIDED BY ARTISTRY",
+    "en": "GUIDED BY ARTISTRY"
+  },
+  "pan_name": {
+    "zh": "潘志濤教授",
+    "en": "Professor Pan Zhitao"
+  },
+  "pan_portrait_alt": {
+    "zh": "潘志濤教授在舞臺上舉起獎盃",
+    "en": "Professor Pan Zhitao raising a trophy on stage"
+  },
+  "judges_message": {
+    "zh": "藝術寄語",
+    "en": "WORDS OF INSPIRATION"
+  },
+  "pan_message_placeholder": {
+    "zh": "此處呈現潘志濤教授的寄語",
+    "en": "A message from Professor Pan Zhitao will appear here."
+  },
+  "pan_message_pending": {
+    "zh": "正式引言待提供",
+    "en": "Official message to be provided"
+  },
+  "meet_preliminary": {
+    "zh": "認識預賽評審團",
+    "en": "Meet the preliminary panel"
+  },
+  "meet_finals": {
+    "zh": "認識決賽評審團",
+    "en": "Meet the finals panel"
+  },
+  "preliminary_panel": {
+    "zh": "預賽評審",
+    "en": "Preliminary judges"
+  },
+  "finals_panel": {
+    "zh": "決賽評委",
+    "en": "Finals judges"
+  },
+  "judges_loading": {
+    "zh": "正在載入評審介紹…",
+    "en": "Loading judge profiles…"
+  },
+  "judges_unavailable": {
+    "zh": "暫時無法載入評審介紹，請稍後再試。",
+    "en": "Judge profiles are temporarily unavailable. Please try again."
+  },
+  "finals_intro": {
+    "zh": "專業的目光，藝術的共鳴",
+    "en": "Expert eyes. Shared artistry."
+  },
+  "judges_source_order": {
+    "zh": "評審順序按姓氏排列",
+    "en": "By Last Name"
+  },
+  "judge_directory": {
+    "zh": "評審目錄",
+    "en": "Judge directory"
+  },
+  "choose_judge": {
+    "zh": "選擇評審，閱讀介紹",
+    "en": "Choose a judge to read their profile"
+  },
+  "judge_translation_pending": {
+    "zh": "英文介紹待更新",
+    "en": "English profile coming soon."
+  },
+  "try_again": {
+    "zh": "重新載入",
+    "en": "Try again"
+  },
+  "prelim_heading": {
+    "zh": "以專業相伴，見證每一步成長",
+    "en": "Expert guidance. Every step of the journey."
+  },
+  "prelim_description": {
+    "zh": "認識預賽評審團，探索每位老師的舞蹈經歷與參與賽季。點選肖像或姓名，即可閱讀完整介紹。",
+    "en": "Meet the preliminary judging panel and explore each judge’s experience and seasons of service. Select a portrait or name to read their biography."
+  },
+  "prelim_program": {
+    "zh": "關於評級評審團計劃",
+    "en": "About the Judge-In-Training Program"
+  },
+  "search_judges": {
+    "zh": "搜尋評審姓名",
+    "en": "Search judges by name"
+  },
+  "judging_season": {
+    "zh": "參與賽季",
+    "en": "Judging seasons"
+  },
+  "all_seasons": {
+    "zh": "全部賽季",
+    "en": "All seasons"
+  },
+  "judge_count": {
+    "zh": "位評審",
+    "en": "judges"
+  },
+  "portrait_pending": {
+    "zh": "照片即將更新",
+    "en": "Portrait coming soon"
+  },
+  "read_judge_bio": {
+    "zh": "閱讀介紹",
+    "en": "Read biography"
+  },
+  "no_judges_found": {
+    "zh": "找不到符合條件的評審。",
+    "en": "No judges match your search."
+  },
+  "clear_judge_filters": {
+    "zh": "清除篩選",
+    "en": "Clear filters"
+  },
+  "original_biography": {
+    "zh": "評審介紹",
+    "en": "BIOGRAPHY"
+  },
+  "judge_bio_pending": {
+    "zh": "評審介紹即將更新。",
+    "en": "This judge’s biography will be added soon."
+  },
+  "news_loading": {
+    "zh": "正在載入動態…",
+    "en": "Loading stories…"
+  },
+  "news_unavailable": {
+    "zh": "暫時無法載入動態，請稍後再試。",
+    "en": "Stories are temporarily unavailable. Please try again."
+  },
+  "news_partial": {
+    "zh": "部分動態暫時無法載入。",
+    "en": "Some stories are temporarily unavailable."
+  },
+  "contact_closing_eyebrow": {
+    "zh": "與君相約 · 以舞相知",
+    "en": "UNTIL WE MEET, THROUGH DANCE"
+  }
+}

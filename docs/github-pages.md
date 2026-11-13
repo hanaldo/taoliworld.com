@@ -20,7 +20,7 @@ SITE_BASE=/ npm run build
 
 For a different project repository, use `SITE_BASE=/REPOSITORY/ npm run build`. In GitHub Actions, set `SITE_BASE` on the build step. The base must begin and end with `/`.
 
-Publish the entire contents of `dist`, including `404.html` and `restore-route.js`. Do not upload the unbuilt source as the website.
+Publish the entire contents of `dist`, including `.nojekyll`, `404.html`, and `restore-route.js`. Do not upload the unbuilt source as the website.
 
 ## How direct links work
 
@@ -29,3 +29,9 @@ GitHub Pages cannot rewrite application paths to index.html. The generated `404.
 The initial deep-link request still receives GitHub Pages' HTTP 404 response before redirecting; this workaround is not a server rewrite and has limitations for crawlers and social previews. JavaScript is required.
 
 Content files remain in `data/`, `news/`, and `images/` within the deployed directory. Updating those files does not require rebuilding the app. Changing the deployment base does require a rebuild.
+
+## Keep Markdown files unchanged
+
+The build includes an empty `.nojekyll` file. It must be uploaded beside `index.html` in the GitHub Pages publishing folder. This disables Jekyll processing, which would otherwise convert the news Markdown files into HTML and cause the app’s `.md` requests to return 404.
+
+Dotfiles may be hidden in your file browser. If the upload omits it, use GitHub’s Add file → Create new file to create `.nojekyll` beside `index.html`, then commit it. Wait for the Pages deployment to finish before refreshing.
