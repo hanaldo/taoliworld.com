@@ -1,0 +1,4442 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "name": {
+                "zh": "2025 桃李地區賽 · 示意",
+                "en": "2025 Taoli Regionals · Sample"
+            },
+            "venue": {
+                "zh": "洛杉磯示意劇院",
+                "en": "Sample Theatre, Los Angeles"
+            },
+            "dates": "2025.04.12–04.13"
+        },
+        {
+            "id": 1,
+            "name": {
+                "zh": "2025 桃李總決賽 · 示意",
+                "en": "2025 Taoli Finals · Sample"
+            },
+            "venue": {
+                "zh": "紐約示意劇院",
+                "en": "Sample Theatre, New York"
+            },
+            "dates": "2025.07.11–07.13"
+        },
+        {
+            "id": 2,
+            "name": {
+                "zh": "2026 桃李地區賽 · 示意",
+                "en": "2026 Taoli Regionals · Sample"
+            },
+            "venue": {
+                "zh": "多倫多示意劇院",
+                "en": "Sample Theatre, Toronto"
+            },
+            "dates": "2026.05.16–05.17"
+        }
+    ],
+    "performances": [
+        {
+            "event": 0,
+            "title": {
+                "zh": "花間",
+                "en": "Among the Flowers"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞",
+                "Alex Chen 陳星禾"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "晨光",
+                "en": "Morning Light"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "流雲",
+                "en": "Drifting Clouds"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "春曉",
+                "en": "Spring Dawn"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞",
+                "Alex Chen 陳星禾"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "遠山",
+                "en": "Distant Hills"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "踏歌",
+                "en": "Dancing Song"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "漣漪",
+                "en": "Ripples"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞",
+                "Alex Chen 陳星禾"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "逐風",
+                "en": "Chasing the Wind"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "月影",
+                "en": "Moonlight"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "青竹",
+                "en": "Bamboo"
+            },
+            "organization": "青禾示範舞校 · Greenfield Demo Studio",
+            "dancers": [
+                "Jamie Lin 林曉舞",
+                "Alex Chen 陳星禾"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "綻放",
+                "en": "In Bloom"
+            },
+            "organization": "青禾示範舞校 · Greenfield Demo Studio",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "鉑金獎",
+                    "en": "Platinum"
+                },
+                {
+                    "zh": "最佳表現獎",
+                    "en": "Outstanding Performance"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "歸途",
+                "en": "Homeward"
+            },
+            "organization": "青禾示範舞校 · Greenfield Demo Studio",
+            "dancers": [
+                "Jamie Lin 林曉舞"
+            ],
+            "category": {
+                "zh": "中國古典舞",
+                "en": "Chinese Classical"
+            },
+            "awards": [
+                {
+                    "zh": "金獎",
+                    "en": "Gold"
+                }
+            ],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "初綻",
+                "en": "First Bloom"
+            },
+            "organization": "桃李示範舞校 · Taoli Demo Academy",
+            "dancers": [
+                "Taylor Wu 吳沐晴"
+            ],
+            "category": {
+                "zh": "中國民族民間舞",
+                "en": "Chinese Folk"
+            },
+            "awards": [],
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "teachers": [
+                "Morgan Lee 李晨（示意 / Sample）"
+            ],
+            "choreographers": [
+                "Robin Chen 陳禾（示意 / Sample）"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組",
+                "en": "Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 / 13–15歲",
+                "en": "Teen Group A / 13–15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Far and Away 一抹紅霞",
+                "en": "Far and Away 一抹紅霞"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Aurora Ng 吳旻殷"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Dedication 最佳傾心投入獎",
+                    "en": "Dedication 最佳傾心投入獎"
+                },
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅",
+                "Rebecca Fu"
+            ],
+            "choreographers": [
+                "Rebecca Fu"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Lillian Leung 梁宇童",
+                "Aurora Ng 吳旻殷",
+                "Kallyn Bao",
+                "Abigail Luong 梁翠瑩",
+                "Alice Qin",
+                "Ava Wang 王莘妤",
+                "Sandra Tang",
+                "Audrey Thai",
+                "Polly Liu",
+                "Chloe Tran",
+                "Julie Zhao 趙晨希",
+                "Janet Zhang 张一朵",
+                "Elly Wang"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Phoenix 鳳韻",
+                "en": "Phoenix 鳳韻"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Jenny Wang",
+                "Grace Lin",
+                "Catherine Cheng"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "成人B組 Adult Group B/50 and Above",
+                "en": "成人B組 Adult Group B/50 and Above"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "乡愁无边（Boundless Homesickness）",
+                "en": "乡愁无边（Boundless Homesickness）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Sophia Duan 段亦菲"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "高階組 Pre-Professional",
+                "en": "高階組 Pre-Professional"
+            },
+            "ageGroup": {
+                "zh": "少年B組 Teen Group B/16-18",
+                "en": "少年B組 Teen Group B/16-18"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Sophia Duan 段亦菲",
+                "Alice Britton 安宝容",
+                "Estella Li 李延欣",
+                "Allison Li 黎梦瑶",
+                "Ava Henn 麦美华",
+                "Marie Leitz 张西娜",
+                "Chloe Chen 林云悠",
+                "Emma Yu 于佳媛",
+                "Zihan Diao 刁紫晗",
+                "Madison Johnson 喜心",
+                "Duo Chen 陈朵",
+                "Jie Chen 陈洁",
+                "Annabelle Bethurem 齐美",
+                "Alaina Lin 林予晗",
+                "Sonya Liu 刘湘湘",
+                "Emily Tang 唐梓宁",
+                "Joanna Feng 冯思琦"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "俏格格 （Spirited Princess）",
+                "en": "俏格格 （Spirited Princess）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Allison Li 黎梦瑶"
+            ],
+            "category": {
+                "zh": "兒童舞 Children Dance",
+                "en": "兒童舞 Children Dance"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "流光（Flowing Light）",
+                "en": "流光（Flowing Light）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Emily Tang 唐梓宁"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "咏荷（Reflection of Summer Lotus）",
+                "en": "咏荷（Reflection of Summer Lotus）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Ava Henn 麦美华"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Talisman 魔符",
+                "en": "Talisman 魔符"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Ava Wang 王莘妤"
+            ],
+            "category": {
+                "zh": "芭蕾舞 Ballet",
+                "en": "芭蕾舞 Ballet"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Frances Thai"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Near Light",
+                "en": "Near Light"
+            },
+            "organization": "Fanfan",
+            "dancers": [
+                "Phuoc Đinh",
+                "Thi Minh Võ"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Phuoc Đinh",
+                "Thi Minh Võ"
+            ],
+            "choreographers": [
+                "Phuoc Đinh",
+                "Thi Minh Võ"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "成人A組 Adult Group A/36-49",
+                "en": "成人A組 Adult Group A/36-49"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Feather",
+                "en": "Feather"
+            },
+            "organization": "Fanfan",
+            "dancers": [
+                "Lila Lin 林晓恩"
+            ],
+            "category": {
+                "zh": "兒童舞 Children Dance",
+                "en": "兒童舞 Children Dance"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Lila Lin"
+            ],
+            "choreographers": [
+                "Lila Lin"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "幼兒組 Young Children/7 and Under",
+                "en": "幼兒組 Young Children/7 and Under"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Frosty Shadows 寒依疏影",
+                "en": "Frosty Shadows 寒依疏影"
+            },
+            "organization": "Fanfan",
+            "dancers": [
+                "Katherine Li 李嘉滢"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Katherine Li 李嘉滢"
+            ],
+            "choreographers": [
+                "Katherine Li 李嘉滢"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Together and Apart",
+                "en": "Together and Apart"
+            },
+            "organization": "Fanfan",
+            "dancers": [
+                "Stacy Li"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Stacy Li"
+            ],
+            "choreographers": [
+                "Stacy Li"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "The Strength Within 練",
+                "en": "The Strength Within 練"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Lillian Leung 梁宇童"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "獨舞",
+                "en": "Solo"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                },
+                {
+                    "zh": "Outstanding Technique 最佳技巧獎",
+                    "en": "Outstanding Technique 最佳技巧獎"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅",
+                "Rebecca Fu"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Little Stallions of the Grassland 草原小骏马",
+                "en": "Little Stallions of the Grassland 草原小骏马"
+            },
+            "organization": "Green Apple Art Academy",
+            "dancers": [
+                "Stephy Guan",
+                "Aily Guan",
+                "Tia Deng",
+                "Emily Shen",
+                "Carrie Li",
+                "Myla Wu",
+                "Jericho Juliano",
+                "Penelope Fraser",
+                "Grace Tan",
+                "Mia Duan",
+                "Pearl Wu",
+                "Leah Chen"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "江珊 Shan Jiang"
+            ],
+            "choreographers": [
+                "江珊 Shan Jiang"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "幼兒組 Young Children/7 and Under",
+                "en": "幼兒組 Young Children/7 and Under"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Sandra Tang",
+                "Audrey Thai",
+                "Ingrid Ho",
+                "Polly Liu",
+                "Chloe Tran",
+                "Julie Zhao 趙晨希",
+                "Janet Zhang 张一朵",
+                "Victoria Grisby"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Jiaqi Fu 付家琪",
+                "Angel ruihan Shi 施睿晗",
+                "Ashley Lewis",
+                "Annie Lin 林安妮",
+                "Angela Chang 张咏歆",
+                "Angela Fong 邝旖滢",
+                "Lina Zheng 郑嘉莃",
+                "Elizabeth Zhang 张书华",
+                "Aliyah Hall"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "佛窟掠影",
+                "en": "佛窟掠影"
+            },
+            "organization": "艺展年华",
+            "dancers": [
+                "Yuanyuan Chen",
+                "Yushan Han"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "awards": [
+                {
+                    "zh": "Best Partnership 最佳配合獎",
+                    "en": "Best Partnership 最佳配合獎"
+                },
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Yuan Wu 吴媛"
+            ],
+            "choreographers": [
+                "Yuan Wu 吴媛"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "青年B組 Young Adult B/30-35",
+                "en": "青年B組 Young Adult B/30-35"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "看戏 （Watching Opera）",
+                "en": "看戏 （Watching Opera）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Lexi Zhang 张洛熙",
+                "Sophie Hu 胡晓菲",
+                "Emma Lu 卢瑾玥"
+            ],
+            "category": {
+                "zh": "兒童舞 Children Dance",
+                "en": "兒童舞 Children Dance"
+            },
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "幼兒組 Young Children/7 and Under",
+                "en": "幼兒組 Young Children/7 and Under"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Whispers on The Little Bench 板凳上的悄悄话",
+                "en": "Whispers on The Little Bench 板凳上的悄悄话"
+            },
+            "organization": "Brilliance Dance Academy",
+            "dancers": [
+                "Anya Yu",
+                "Angela Ding"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "雙人 / 三人舞",
+                "en": "Duet / Trio"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Bingjie Zhao Shirley"
+            ],
+            "choreographers": [
+                "Bingjie Zhao Shirley"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Girls With Bells 铃铛少女",
+                "en": "Girls With Bells 铃铛少女"
+            },
+            "organization": "DanDance Art School",
+            "dancers": [
+                "Chloe Lin",
+                "Yanen Wu",
+                "Natalie Ng",
+                "Zixin Li",
+                "Viola Lin",
+                "Candice Liao"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [],
+            "choreographers": [],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "幼兒組 Young Children/7 and Under",
+                "en": "幼兒組 Young Children/7 and Under"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Fire Phoenix 火凤凰",
+                "en": "Fire Phoenix 火凤凰"
+            },
+            "organization": "DanDance Art School",
+            "dancers": [
+                "Zeekee Lei",
+                "Caitlynn Chiu",
+                "Janice Yuan",
+                "Tina Huang"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [],
+            "choreographers": [],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "水龙吟",
+                "en": "水龙吟"
+            },
+            "organization": "DanDance Art School",
+            "dancers": [
+                "Fiona Duan",
+                "Leo Pan",
+                "Leona Pan",
+                "Kaylee Huang"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [],
+            "choreographers": [],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Jasmine 茉莉",
+                "en": "Jasmine 茉莉"
+            },
+            "organization": "New Dance Academy",
+            "dancers": [
+                "Helen Hu 胡蓉",
+                "Yin Chen",
+                "杜文征 Wenzheng Du",
+                "郭敏 Maggie Guo",
+                "彭青 Qing Peng",
+                "孙婷",
+                "王䬅 Li Eltoft",
+                "Louisa Chen",
+                "李真 Zhen Jessica Li"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Xi Zhao 赵玺"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "成人B組 Adult Group B/50 and Above",
+                "en": "成人B組 Adult Group B/50 and Above"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "森之灵",
+                "en": "森之灵"
+            },
+            "organization": "Peach Plum Art Academy 加拿大桃李艺术学校",
+            "dancers": [
+                "Xin Yu Li 李新宇",
+                "Stanley Vong 黄加全",
+                "Xiuyue Xu 许秀月",
+                "Yan Dong 董焰",
+                "Shimin Liu 刘世敏",
+                "Bella Lai",
+                "Qian Fei Hu 胡茜菲",
+                "Yuan Li 李媛",
+                "Jing Chen 陈晶",
+                "Trista Guo 郭雅雯",
+                "Lin He 何麟",
+                "Tao Tao 陶涛"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Dynamic Costume 最佳服裝獎",
+                    "en": "Dynamic Costume 最佳服裝獎"
+                },
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Xin yu li 李新宇"
+            ],
+            "choreographers": [
+                "Xin yu li 李新宇"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "成人A組 Adult Group A/36-49",
+                "en": "成人A組 Adult Group A/36-49"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "花样年华",
+                "en": "花样年华"
+            },
+            "organization": "亚特兰大亚美舞团 Atlanta Asian American Dance Group",
+            "dancers": [
+                "Yujia Wu 武雨佳",
+                "Lihua Meng 孟丽华",
+                "Jari Muller",
+                "Mandy Zhang 张莉曼",
+                "Erica Jin 金波",
+                "Rong Rong Li Karski 李容容",
+                "Lily Zhang 张岳兰",
+                "Diana Zhou 周晓东",
+                "Sophia Li 李虹秀",
+                "Juanjuan Wu 吴涓涓",
+                "Cassie Zou 邹慧君",
+                "Amy Shi 石一鸣",
+                "Linda Chen 陈红"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Jari Muller 雅瑞",
+                "Yujia Wu 武雨佳"
+            ],
+            "choreographers": [
+                "Jari Muller 雅瑞",
+                "Yujia Wu 武雨佳"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "成人B組 Adult Group B/50 and Above",
+                "en": "成人B組 Adult Group B/50 and Above"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "再望这片黑土地",
+                "en": "再望这片黑土地"
+            },
+            "organization": "Dragonfly Arts Academy",
+            "dancers": [
+                "Elma Chen",
+                "Charlotte Tang",
+                "Angela Zhang",
+                "Victoria Xing",
+                "Chloe Dong",
+                "Evan Xu",
+                "Lydia Lan",
+                "Tiffany Xu",
+                "Avril Ni",
+                "Taylor Sym",
+                "Sophia Wu",
+                "Phoebe Xie",
+                "Kasey Cusher",
+                "Debby Lin",
+                "Jessie Wang"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                },
+                {
+                    "zh": "Team Excellence 最佳團隊獎",
+                    "en": "Team Excellence 最佳團隊獎"
+                }
+            ],
+            "teachers": [
+                "Xiaoting Wu"
+            ],
+            "choreographers": [
+                "Xiaoting Wu"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Young Boss Hip-Hop Choreography Remix",
+                "en": "Young Boss Hip-Hop Choreography Remix"
+            },
+            "organization": "New Star Chinese Arts School",
+            "dancers": [
+                "Olivia Gower",
+                "Emma Zhang",
+                "Emma Sun",
+                "Malia Albrizio-Lee",
+                "Max Lin",
+                "Lionel Yu",
+                "Ethan Kuang"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Yichun Liu Fiona"
+            ],
+            "choreographers": [
+                "Yichun Liu Fiona"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "且吟春雨",
+                "en": "且吟春雨"
+            },
+            "organization": "H&LDANCE",
+            "dancers": [
+                "Mengze Zong",
+                "Delaney Zhang",
+                "Janice Wang",
+                "Anna Wang",
+                "Iris Mei",
+                "Anna Zhu",
+                "Melody Mei",
+                "Kate Wang",
+                "Nicole Zheng"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Gold 金",
+                    "en": "Gold 金"
+                }
+            ],
+            "teachers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreographers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "生命的河",
+                "en": "生命的河"
+            },
+            "organization": "H&LDANCE",
+            "dancers": [
+                "Jamie Yang 杨珏梅",
+                "Jane Hu",
+                "Wei Yao 姚薇",
+                "Amy Zheng 郑佳敏",
+                "Zhen Zheng 郑珍",
+                "Sheila Qin Li",
+                "Lanxuan Zhao 赵兰萱",
+                "Yahang Zhang",
+                "Suyang Luo",
+                "Mandy Zhao",
+                "Junru Di",
+                "Jingyuan Wang",
+                "Bing Li"
+            ],
+            "category": {
+                "zh": "當代舞 Lyrical/Contemporary",
+                "en": "當代舞 Lyrical/Contemporary"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                },
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                },
+                {
+                    "zh": "Pure Elegance 最具魅力獎",
+                    "en": "Pure Elegance 最具魅力獎"
+                }
+            ],
+            "teachers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreographers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "成人A組 Adult Group A/36-49",
+                "en": "成人A組 Adult Group A/36-49"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "唐朝",
+                "en": "唐朝"
+            },
+            "organization": "H&LDANCE",
+            "dancers": [
+                "Yihan Hu 胡译涵",
+                "Selina Tang",
+                "Mliey He",
+                "Madelynn Xu",
+                "Mckenzie Xu",
+                "Zilan Chen",
+                "Anya He 和安雅",
+                "Angelina Wang"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreographers": [
+                "Huiling Tan 谭慧玲"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "伎乐飞天 Melody of the Flying Apsaras",
+                "en": "伎乐飞天 Melody of the Flying Apsaras"
+            },
+            "organization": "NCCPT/NCYPT",
+            "dancers": [
+                "Abigail Li",
+                "Alexa Song",
+                "Janine Wu",
+                "Sophia Zhang",
+                "Ellie Yang",
+                "Ianna Dong",
+                "Daisy Zhang",
+                "Jiaqi Wan",
+                "Luna Wang",
+                "Alice Zheng",
+                "Rachel Li",
+                "Jingyi Fu",
+                "Tiffany Zhu",
+                "Chelsea Li",
+                "Shujun Yong"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Yao 刘瑶"
+            ],
+            "choreographers": [
+                "Yao 刘瑶"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "莲鼓越歌行 Song of the Lotus Drum",
+                "en": "莲鼓越歌行 Song of the Lotus Drum"
+            },
+            "organization": "NCCPT/NCYPT",
+            "dancers": [
+                "Mia Li",
+                "Andrea Zhang",
+                "Sophia Peng",
+                "Gina Zeng",
+                "Nicole Zhu",
+                "Isabella Bai",
+                "Suyao Lee"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Yao 刘瑶"
+            ],
+            "choreographers": [
+                "Yao 刘瑶"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "幼女词 Little Damsels",
+                "en": "幼女词 Little Damsels"
+            },
+            "organization": "NCCPT/NCYPT",
+            "dancers": [
+                "Sophie Lee",
+                "Evelyn Ding",
+                "Eliana Chuang",
+                "Lydia Xiao",
+                "Ashley Dong",
+                "Adeline Tian",
+                "Rihanna Li"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Min 林敏"
+            ],
+            "choreographers": [
+                "Min 林敏"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "春花盛开",
+                "en": "春花盛开"
+            },
+            "organization": "Lingyun Rising Star 凌云舞校",
+            "dancers": [
+                "Kite Lin 林馨楠",
+                "Princess A. Anno-Firempong 公主",
+                "Auberon Fischer 张彩虹",
+                "Sophie Huang 黄诗雅",
+                "Cimaron Fischer 张甜甜",
+                "Venus Xie 谢日欣",
+                "Chloe Xie 谢日红",
+                "Iris Li 郦安苓",
+                "Autumn Maltba 碧涵",
+                "Amber Malthba Amber Malthba",
+                "Sichen Thomas Sichen Thomas 思成"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Best Creativity 創意獎",
+                    "en": "Best Creativity 創意獎"
+                },
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Chaoxia Zhang  Fischer 张超霞 (Amy)"
+            ],
+            "choreographers": [
+                "Chaoxia Zhang  Fischer 张超霞 (Amy)"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "伎乐觉旋 Awakening",
+                "en": "伎乐觉旋 Awakening"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Elina Tsai",
+                "Yang Xiao",
+                "Wen Fei Ma",
+                "Claire Yi",
+                "Huier Liu 刘蕙尔",
+                "Kylie Liao 廖凯怡",
+                "Aixi Wang 王艾茜",
+                "Noelle Mullarkey 梅洛亚",
+                "Alina Gu 顾凌菲",
+                "Lorena Tsai 蔡芮甯",
+                "Grace Sun 孙艺鑫",
+                "Nicole Xiao 肖桐",
+                "Ziqian Yong 雍子茜",
+                "Katherine Sun 孙熙雯",
+                "Angela Men 门安琪",
+                "Nagezha Nijiati",
+                "Fiona Dai"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Excellent Effort Award 優秀表演獎",
+                    "en": "Excellent Effort Award 優秀表演獎"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Xue Han"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "羽化登仙 Feathers to Heaven",
+                "en": "羽化登仙 Feathers to Heaven"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Elina Tsai",
+                "Yang Xiao",
+                "Wen Fei Ma",
+                "Kylie Liao 廖凯怡"
+            ],
+            "category": {
+                "zh": "中國古典舞 Chinese Classical",
+                "en": "中國古典舞 Chinese Classical"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Xue Han"
+            ],
+            "choreographers": [
+                "Xue Han"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "少年B組 Teen Group B/16-18",
+                "en": "少年B組 Teen Group B/16-18"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "禄马赞 Echo of the Nomad Hymn",
+                "en": "禄马赞 Echo of the Nomad Hymn"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Elina Tsai",
+                "Yang Xiao",
+                "Wen Fei Ma",
+                "Claire Yi",
+                "Huier Liu 刘蕙尔",
+                "Kylie Liao 廖凯怡",
+                "Lorena Tsai 蔡芮甯",
+                "Ziqian Yong 雍子茜",
+                "Qingran Zhang"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Xue Han"
+            ],
+            "choreographers": [
+                "Xue Han"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "少年A組 Teen Group A/13-15",
+                "en": "少年A組 Teen Group A/13-15"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "且吟春雨 Whispers of Spring",
+                "en": "且吟春雨 Whispers of Spring"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Aixi Wang 王艾茜",
+                "Noelle Mullarkey 梅洛亚",
+                "Alina Gu 顾凌菲",
+                "Grace Sun 孙艺鑫",
+                "Nicole Xiao 肖桐",
+                "Ziqian Yong 雍子茜",
+                "Katherine Sun 孙熙雯",
+                "Angela Men 门安琪",
+                "Nagezha Nijiati"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Xue Han"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "壮锦涟漪 Vibrant Brocade of Zhuang",
+                "en": "壮锦涟漪 Vibrant Brocade of Zhuang"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Aixi Wang 王艾茜",
+                "Noelle Mullarkey 梅洛亚",
+                "Alina Gu 顾凌菲",
+                "Nicole Xiao 肖桐",
+                "Katherine Sun 孙熙雯",
+                "Angela Men 门安琪",
+                "Nagezha Nijiati"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Xue Han"
+            ],
+            "choreographers": [
+                "Xue Han"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "年画娃娃 Festival Dolls",
+                "en": "年画娃娃 Festival Dolls"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Joy Xie 谢佳颖",
+                "Olivia Chen 陈籽婧",
+                "Winnie Chi",
+                "Annie Chi",
+                "Fiona Dai",
+                "Beryl Hao 郝若如",
+                "Isabella Tang",
+                "Evangelyne Feemster",
+                "Olivia Cheng",
+                "Emma Guo"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Danmei Yang 杨丹梅"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "走进光里 walking into the light",
+                "en": "走进光里 walking into the light"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Yi Xiong 熊仪",
+                "Julie Zhu",
+                "黄维辰",
+                "Manhin Lu",
+                "Bridget Yang",
+                "Qingran Zhang",
+                "Olivia Thadani",
+                "Amy Yao",
+                "Serena Chan"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Age/Level Group 年齡及組別最高分",
+                    "en": "Highest Overall in Age/Level Group 年齡及組別最高分"
+                }
+            ],
+            "teachers": [
+                "Danmei Yang 杨丹梅"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "青年A組 Young Adult A/19-29",
+                "en": "青年A組 Young Adult A/19-29"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "草原的孩子",
+                "en": "草原的孩子"
+            },
+            "organization": "South Coast Chinese Cultural Center",
+            "dancers": [
+                "Joy Xie 谢佳颖",
+                "Olivia Chen 陈籽婧",
+                "Winnie Chi",
+                "Annie Chi",
+                "Fiona Dai",
+                "Beryl Hao 郝若如",
+                "Isabella Tang",
+                "Evangelyne Feemster",
+                "Olivia Cheng",
+                "Emma Guo"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "Danmei Yang 杨丹梅"
+            ],
+            "choreographers": [],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Hope 盼",
+                "en": "Hope 盼"
+            },
+            "organization": "Seattle OceanHeart Dance Group 西雅图海之心语舞蹈团",
+            "dancers": [
+                "Shuhua Ma",
+                "Beatrice He",
+                "Li Bai",
+                "鎧瑄 Kai Xuan",
+                "Wendy 雯珍",
+                "Wen",
+                "Sophie",
+                "Xiuyun",
+                "Katie静",
+                "佳佳",
+                "Mung-Y",
+                "Huixin Liang 梁惠馨"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Platinum 鉑金",
+                    "en": "Platinum 鉑金"
+                }
+            ],
+            "teachers": [
+                "海之心语"
+            ],
+            "choreographers": [
+                "海之心语"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "成人B組 Adult Group B/50 and Above",
+                "en": "成人B組 Adult Group B/50 and Above"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Lillian Leung 梁宇童"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Aurora Ng 吳旻殷"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Kallyn Bao"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Abigail Luong 梁翠瑩"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Alice Qin"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Ava Wang 王莘妤"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Sandra Tang"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Audrey Thai"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Polly Liu"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Chloe Tran"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Julie Zhao 趙晨希"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Janet Zhang 张一朵"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Red 千紅",
+                "en": "Red 千紅"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Elly Wang"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "進階組 Advanced",
+                "en": "進階組 Advanced"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Sophia Duan 段亦菲"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Alice Britton 安宝容"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Estella Li 李延欣"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Allison Li 黎梦瑶"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Ava Henn 麦美华"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Marie Leitz 张西娜"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Chloe Chen 林云悠"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Emma Yu 于佳媛"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "木兰 （Mulan）",
+                "en": "木兰 （Mulan）"
+            },
+            "organization": "Jasmine Flower Dance (茉莉花舞蹈学校）",
+            "dancers": [
+                "Zihan Diao 刁紫晗"
+            ],
+            "category": {
+                "zh": "其他 Open （國標，爵士，街舞等）",
+                "en": "其他 Open （國標，爵士，街舞等）"
+            },
+            "groupSize": {
+                "zh": "大群舞（11–24人）",
+                "en": "Large group (11–24 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                },
+                {
+                    "zh": "Highest Overall in Dance Category 舞種最高分",
+                    "en": "Highest Overall in Dance Category 舞種最高分"
+                }
+            ],
+            "teachers": [
+                "Lily Han 韩莉"
+            ],
+            "choreographers": [
+                "Lily Han 韩莉"
+            ],
+            "choreography": {
+                "zh": "改編",
+                "en": "Adaptation"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童B組 Children Group B/11-12",
+                "en": "兒童B組 Children Group B/11-12"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Sandra Tang"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Audrey Thai"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Ingrid Ho"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Polly Liu"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Chloe Tran"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Julie Zhao 趙晨希"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Janet Zhang 张一朵"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Peacocks",
+                "en": "Peacocks"
+            },
+            "organization": "Shin Dance Academy",
+            "dancers": [
+                "Victoria Grisby"
+            ],
+            "category": {
+                "zh": "中國民族民間舞 Chinese Folk",
+                "en": "中國民族民間舞 Chinese Folk"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreographers": [
+                "Shinyue Wang 王馨悅"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "中階組 Intermediate",
+                "en": "中階組 Intermediate"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Jiaqi Fu 付家琪"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Angel ruihan Shi 施睿晗"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Ashley Lewis"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 2,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Annie Lin 林安妮"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 0,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Angela Chang 张咏歆"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        },
+        {
+            "event": 1,
+            "title": {
+                "zh": "Whisper by the Stream《溪畔梦语》",
+                "en": "Whisper by the Stream《溪畔梦语》"
+            },
+            "organization": "Sunshine Art Academy",
+            "dancers": [
+                "Angela Fong 邝旖滢"
+            ],
+            "category": {
+                "zh": "中國當代舞 Contemporary Chinese",
+                "en": "中國當代舞 Contemporary Chinese"
+            },
+            "groupSize": {
+                "zh": "小群舞（4–10人）",
+                "en": "Small group (4–10 dancers)"
+            },
+            "awards": [
+                {
+                    "zh": "Elite Platinum 十佳鉑金",
+                    "en": "Elite Platinum 十佳鉑金"
+                }
+            ],
+            "teachers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreographers": [
+                "YAO LIU 刘瑶"
+            ],
+            "choreography": {
+                "zh": "原創",
+                "en": "Original"
+            },
+            "level": {
+                "zh": "愛好組 Recreational",
+                "en": "愛好組 Recreational"
+            },
+            "ageGroup": {
+                "zh": "兒童A組 Children Group A/8-10",
+                "en": "兒童A組 Children Group A/8-10"
+            }
+        }
+    ]
+}

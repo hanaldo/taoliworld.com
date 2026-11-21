@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "name": {
+                "zh": "2025 桃李地區賽 · 示意",
+                "en": "2025 Taoli Regionals · Sample"
+            },
+            "venue": {
+                "zh": "洛杉磯示意劇院",
+                "en": "Sample Theatre, Los Angeles"
+            },
+            "dates": "2025.04.12–04.13"
+        },
+        {
+            "id": 1,
+            "name": {
+                "zh": "2025 桃李總決賽 · 示意",
+                "en": "2025 Taoli Finals · Sample"
+            },
+            "venue": {
+                "zh": "紐約示意劇院",
+                "en": "Sample Theatre, New York"
+            },
+            "dates": "2025.07.11–07.13"
+        },
+        {
+            "id": 2,
+            "name": {
+                "zh": "2026 桃李地區賽 · 示意",
+                "en": "2026 Taoli Regionals · Sample"
+            },
+            "venue": {
+                "zh": "多倫多示意劇院",
+                "en": "Sample Theatre, Toronto"
+            },
+            "dates": "2026.05.16–05.17"
+        }
+    ]
+}

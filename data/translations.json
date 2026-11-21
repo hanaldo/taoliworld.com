@@ -80,16 +80,12 @@
     "en": "Page not found"
   },
   "page_tagline": {
-    "zh": "以舞為橋，讓熱愛與世界相遇。",
-    "en": "Artistry, connection, and a world of possibility."
-  },
-  "hero_tagline": {
-    "zh": "以中國舞之美，與世界相遇",
+    "zh": "以舞為橋，讓熱愛與世界相遇",
     "en": "CHINESE ROOTS. A WORLD OF POSSIBILITY."
   },
   "hero_description": {
     "zh": "讓每一份熱愛被看見，讓每一個夢想盡情綻放。\n泛美國際桃李盃，與你共赴世界的舞臺。",
-    "en": "A place for passion to be seen and dreams to flourish.Discover your next chapter at Taoli World Dance Competition."
+    "en": "A place for passion to be seen and dreams to flourish. Discover your next chapter at Taoli World Dance Competition."
   },
   "about_taoli_alternate": {
     "zh": "了解桃李",
@@ -195,20 +191,12 @@
     "zh": "返回所有動態",
     "en": "Back to all stories"
   },
-  "details_coming_soon": {
-    "zh": "資訊即將公布",
-    "en": "Details coming soon"
-  },
-  "information_pending": {
-    "zh": "我們正在整理本頁資訊，確認後將於此公布。",
-    "en": "We are preparing this information and will publish it here once confirmed."
-  },
   "page_not_found_alternate": {
     "zh": "找不到此頁面",
     "en": "Page not found"
   },
   "copyright": {
-    "zh": "泛美舞蹈聯盟 · 版權所有",
+    "zh": "泛美舞蹈聯盟（PACDA） · 版權所有",
     "en": "Pan America Chinese Dance Alliance. All rights reserved."
   },
   "back_to_top": {
@@ -545,6 +533,198 @@
   },
   "contact_closing_eyebrow": {
     "zh": "與君相約 · 以舞相知",
-    "en": "UNTIL WE MEET, THROUGH DANCE"
+    "en": "UNTIL WE MEET,\nTHROUGH DANCE"
+  },
+  "awards_search": {
+    "zh": "演出與榮譽查詢",
+    "en": "Find performances & awards"
+  },
+  "awards_demo": {
+    "zh": "示範資料",
+    "en": "Demo data"
+  },
+  "awards_name": {
+    "zh": "舞者姓名",
+    "en": "Dancer name"
+  },
+  "awards_name_hint": {
+    "zh": "中文或英文姓名",
+    "en": "Chinese or English name"
+  },
+  "awards_school": {
+    "zh": "舞校 / 機構",
+    "en": "School / organization"
+  },
+  "awards_school_hint": {
+    "zh": "搜尋舞校名稱",
+    "en": "Search organizations"
+  },
+  "awards_event": {
+    "zh": "賽事",
+    "en": "Event"
+  },
+  "awards_event_hint": {
+    "zh": "搜尋賽事",
+    "en": "Search events"
+  },
+  "awards_search_button": {
+    "zh": "尋找紀錄",
+    "en": "Find matches"
+  },
+  "awards_clear": {
+    "zh": "清除",
+    "en": "Clear"
+  },
+  "awards_no_options": {
+    "zh": "沒有符合項目",
+    "en": "No matching options"
+  },
+  "awards_start": {
+    "zh": "尋找你的舞臺足跡",
+    "en": "Find your moments on stage"
+  },
+  "awards_start_hint": {
+    "zh": "輸入姓名，或選擇舞校、賽事。",
+    "en": "Enter a name, or choose a school or event."
+  },
+  "awards_matches": {
+    "zh": "符合的姓名與舞校",
+    "en": "Matching names & schools"
+  },
+  "awards_select_hint": {
+    "zh": "請選擇一位舞者及其舞校。",
+    "en": "Choose one dancer and organization."
+  },
+  "awards_no_matches": {
+    "zh": "沒有符合的紀錄，請調整搜尋條件。",
+    "en": "No matches. Try another name, school or event."
+  },
+  "awards_view": {
+    "zh": "查看紀錄",
+    "en": "View records"
+  },
+  "awards_selected": {
+    "zh": "已選",
+    "en": "Selected"
+  },
+  "awards_back": {
+    "zh": "重新選擇姓名與舞校",
+    "en": "Choose names & schools"
+  },
+  "awards_records": {
+    "zh": "演出紀錄",
+    "en": "Performances"
+  },
+  "awards_title": {
+    "zh": "作品名稱",
+    "en": "Performance title"
+  },
+  "awards_title_hint": {
+    "zh": "搜尋作品",
+    "en": "Search performances"
+  },
+  "awards_award": {
+    "zh": "獎項",
+    "en": "Award"
+  },
+  "awards_all": {
+    "zh": "全部",
+    "en": "All"
+  },
+  "awards_no_award": {
+    "zh": "暫無獎項資料",
+    "en": "No awards listed"
+  },
+  "awards_searching": {
+    "zh": "搜尋中…",
+    "en": "Searching…"
+  },
+  "awards_search_error": {
+    "zh": "暫時無法搜尋紀錄。",
+    "en": "Search is currently unavailable."
+  },
+  "awards_dancers": {
+    "zh": "參演舞者",
+    "en": "Dancers"
+  },
+  "awards_prev": {
+    "zh": "上一頁",
+    "en": "Previous"
+  },
+  "awards_next": {
+    "zh": "下一頁",
+    "en": "Next"
+  },
+  "awards_loading": {
+    "zh": "正在載入紀錄…",
+    "en": "Loading records…"
+  },
+  "awards_error": {
+    "zh": "暫時無法載入紀錄。",
+    "en": "Records are currently unavailable."
+  },
+  "awards_news": {
+    "zh": "榮譽榜與獲獎公告",
+    "en": "Awards & announcements"
+  },
+  "awards_news_eyebrow": {
+    "zh": "CELEBRATING ACHIEVEMENT",
+    "en": "CELEBRATING ACHIEVEMENT"
+  },
+  "awards_total_performances": {
+    "zh": "演出",
+    "en": "Performances"
+  },
+  "awards_total_awards": {
+    "zh": "獎項",
+    "en": "Awards"
+  },
+  "awards_total_events": {
+    "zh": "參與賽事",
+    "en": "Events"
+  },
+  "awards_earned": {
+    "zh": "獲得獎項",
+    "en": "Awards earned"
+  },
+  "awards_teachers": {
+    "zh": "指導老師",
+    "en": "Teachers"
+  },
+  "awards_choreographers": {
+    "zh": "編舞",
+    "en": "Choreographers"
+  },
+  "awards_choreography": {
+    "zh": "創作類型",
+    "en": "Choreography type"
+  },
+  "awards_level": {
+    "zh": "參賽級別",
+    "en": "Level"
+  },
+  "awards_age_group": {
+    "zh": "年齡組別",
+    "en": "Age group"
+  },
+  "awards_category": {
+    "zh": "舞蹈類別",
+    "en": "Category"
+  },
+  "awards_group_size": {
+    "zh": "演出組別",
+    "en": "Group size"
+  },
+  "awards_suggestions_error": {
+    "zh": "暫時無法載入，請稍後重試。",
+    "en": "Unable to load suggestions. Please try again."
+  },
+  "seo_home_title": {
+    "zh": "泛美國際桃李盃舞蹈大賽｜Taoli World Dance Competition",
+    "en": "Taoli World Dance Competition presented by PACDA"
+  },
+  "seo_description": {
+    "zh": "泛美國際桃李盃舞蹈大賽（Taoli World Dance Competition）由泛美舞蹈聯盟 PACDA 主辦，為海外中國舞者提供展示與交流的舞臺。了解中國古典舞、民族民間舞及當代舞賽事，查看賽程、參賽指南、報名資訊、評審介紹與獲獎紀錄。",
+    "en": "Discover Taoli World Dance Competition, presented by PACDA: Chinese classical, folk and contemporary dance, event schedules, registration, guidelines, judges and awards."
   }
 }
