@@ -15,10 +15,6 @@
     "zh": "桃李動態",
     "en": "News"
   },
-  "media": {
-    "zh": "影像藝廊",
-    "en": "Media"
-  },
   "contact": {
     "zh": "聯繫我們",
     "en": "Contact"
@@ -26,10 +22,6 @@
   "news_stories": {
     "zh": "桃李動態",
     "en": "News & stories"
-  },
-  "media_gallery": {
-    "zh": "影像藝廊",
-    "en": "Media gallery"
   },
   "registration": {
     "zh": "參賽報名",
@@ -123,30 +115,6 @@
     "zh": "沒有符合的動態，試試其他關鍵字。",
     "en": "No matching stories. Try another search."
   },
-  "explore_the_full_gallery": {
-    "zh": "探索完整藝廊",
-    "en": "Explore the full gallery"
-  },
-  "photos": {
-    "zh": "照片",
-    "en": "Photos"
-  },
-  "videos": {
-    "zh": "影片",
-    "en": "Videos"
-  },
-  "video_preview_title": {
-    "zh": "桃李光影 · 動態設計預覽",
-    "en": "Taoli in motion · Design preview"
-  },
-  "video_preview_description": {
-    "zh": "此短片由歷史照片製作，正式演出影片即將更新。",
-    "en": "A motion study made from archive photographs. Performance films will follow."
-  },
-  "taoli_moments": {
-    "zh": "桃李映像",
-    "en": "TAOLI MOMENTS"
-  },
   "contact_description": {
     "zh": "關於賽事、參賽或合作，歡迎透過以下電子郵件聯繫我們。",
     "en": "For competition, participation, or partnership enquiries, contact us at the email below."
@@ -203,21 +171,9 @@
     "zh": "返回頂部",
     "en": "Back to top"
   },
-  "image_viewer": {
-    "zh": "圖片檢視",
-    "en": "Image viewer"
-  },
   "close": {
     "zh": "關閉",
     "en": "Close"
-  },
-  "previous_image": {
-    "zh": "上一張",
-    "en": "Previous image"
-  },
-  "next_image": {
-    "zh": "下一張",
-    "en": "Next image"
   },
   "hero_video_label": {
     "zh": "歷史照片動態預覽",

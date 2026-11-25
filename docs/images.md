@@ -6,7 +6,6 @@ All public images live under `public/images/` and retain the same folder structu
 - `hero/`: homepage hero decoration.
 - `about/`: About-page photographs.
 - `competition/`: competition schedule images.
-- `gallery/`: archive photographs shared by news, the gallery, and video posters.
 - `judges/`: add judge portraits here as needed (see README.md).
 
 Add future images to the relevant section folder. Reuse shared images rather than copying them into multiple folders.

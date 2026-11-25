@@ -1,6 +1,6 @@
 # GitHub Pages and clean URLs
 
-Vue Router uses normal paths such as `/contact` and `/news/festival-2024`.
+Vue Router uses normal paths such as `/contact` and `/news/2024-awards-china.md`.
 
 ## Build for your address
 
