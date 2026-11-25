@@ -351,6 +351,26 @@
     "zh": "每一份努力，值得銘記",
     "en": "Every achievement matters"
   },
+  "competition_fees": {
+    "zh": "支付參賽費用",
+    "en": "Competition Fees"
+  },
+  "competition_fees_description": {
+    "zh": "查看單人舞、雙人舞、三人舞及群舞的參賽費用。",
+    "en": "View entry fees for solo, duet, trio, and group dances."
+  },
+  "competition_fees_view": {
+    "zh": "查看參賽費用",
+    "en": "Explore competition fees"
+  },
+  "competition_fees_page": {
+    "zh": "參賽費用",
+    "en": "Competition Fees"
+  },
+  "competition_fees_back": {
+    "zh": "返回賽事資訊",
+    "en": "Back to competition"
+  },
   "awards_description": {
     "zh": "回顧歷屆獲獎名單，見證舞者的成長與榮光。",
     "en": "Explore past results and celebrate the artistry of our dancers."

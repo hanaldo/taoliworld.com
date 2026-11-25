@@ -1,0 +1,413 @@
+{
+  "currency": "USD",
+  "products": [
+    {
+      "id": "solo-duet-trio",
+      "title": {
+        "zh": "單人舞／雙人舞／三人舞",
+        "en": "Solo / Duet / Trio"
+      },
+      "heading": {
+        "zh": "2026-2027 國際桃李盃區域賽報名費",
+        "en": "2026–2027 Taoli World Regional Entry Fee"
+      },
+      "pricing": {
+        "baseField": "show_dance_type"
+      },
+      "fields": [
+        {
+          "id": "show_city",
+          "type": "radio",
+          "layout": "wide",
+          "label": {
+            "zh": "城市",
+            "en": "City"
+          },
+          "priceEffect": "none",
+          "options": [
+            {
+              "id": "norcal",
+              "label": {
+                "zh": "北加",
+                "en": "Northern California"
+              }
+            },
+            {
+              "id": "calgary",
+              "label": {
+                "zh": "卡爾加里",
+                "en": "Calgary"
+              }
+            },
+            {
+              "id": "toronto",
+              "label": {
+                "zh": "多倫多",
+                "en": "Toronto"
+              }
+            },
+            {
+              "id": "las-vegas",
+              "label": {
+                "zh": "拉斯維加斯",
+                "en": "Las Vegas"
+              }
+            },
+            {
+              "id": "chicago",
+              "label": {
+                "zh": "芝加哥",
+                "en": "Chicago"
+              }
+            },
+            {
+              "id": "recorded",
+              "label": {
+                "zh": "錄播",
+                "en": "Recorded"
+              }
+            }
+          ]
+        },
+        {
+          "id": "show_dance_type",
+          "type": "radio",
+          "label": {
+            "zh": "舞蹈類別",
+            "en": "Dance type"
+          },
+          "options": [
+            {
+              "id": "solo",
+              "label": {
+                "zh": "單人舞",
+                "en": "Solo"
+              },
+              "priceMinor": 20000,
+              "priceId": "price_1UeT5nAZnqEigZm3jMQCWFiK"
+            },
+            {
+              "id": "duet",
+              "label": {
+                "zh": "雙人舞",
+                "en": "Duet"
+              },
+              "priceMinor": 20400,
+              "priceId": "price_1UenRUAZnqEigZm3p0ZRgOV1"
+            },
+            {
+              "id": "trio",
+              "label": {
+                "zh": "三人舞",
+                "en": "Trio"
+              },
+              "priceMinor": 30600,
+              "priceId": "price_1UfUP2AZnqEigZm37ytBBqXx"
+            }
+          ]
+        },
+        {
+          "id": "duration",
+          "type": "select",
+          "label": {
+            "zh": "額外時長",
+            "en": "Extra time"
+          },
+          "placeholder": {
+            "zh": "請選擇時長",
+            "en": "Select performance length"
+          },
+          "options": [
+            {
+              "id": "standard",
+              "label": {
+                "zh": "不加時",
+                "en": "No extra time"
+              }
+            },
+            {
+              "id": "up-to-330",
+              "label": {
+                "zh": "加時 30 秒",
+                "en": "Extra 30 sec"
+              },
+              "extraMinor": 2500,
+              "priceId": "price_1UeVJIAZnqEigZm3aFnHDVqN"
+            },
+            {
+              "id": "up-to-400",
+              "label": {
+                "zh": "加時 1 分鐘",
+                "en": "Extra 1 min"
+              },
+              "extraMinor": 5000,
+              "priceId": "price_1UenX1AZnqEigZm3phFsrgfG"
+            },
+            {
+              "id": "up-to-430",
+              "label": {
+                "zh": "加時 1 分 30 秒",
+                "en": "Extra 1 min 30 sec"
+              },
+              "extraMinor": 7500,
+              "priceId": "price_1UfUe0AZnqEigZm3KGFwB9PU"
+            },
+            {
+              "id": "up-to-500",
+              "label": {
+                "zh": "加時 2 分鐘",
+                "en": "Extra 2 min"
+              },
+              "extraMinor": 10000,
+              "priceId": "price_1UfUfQAZnqEigZm370YOTX7j"
+            }
+          ],
+          "priceEffect": "fixedExtra",
+          "defaultValue": "standard",
+          "hint": {
+            "zh": "含 3 分鐘",
+            "en": "3 min included"
+          }
+        },
+        {
+          "id": "show_school",
+          "type": "text",
+          "label": {
+            "zh": "學校名稱（Organization）",
+            "en": "School Name (Organization)"
+          }
+        },
+        {
+          "id": "show_performance",
+          "type": "text",
+          "label": {
+            "zh": "舞蹈名稱（Performance）",
+            "en": "Performance Name"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "title": {
+        "zh": "群舞",
+        "en": "Group Dance"
+      },
+      "heading": {
+        "zh": "2026-2027 國際桃李盃區域賽報名費",
+        "en": "2026–2027 Taoli World Regional Entry Fee"
+      },
+      "pricing": {
+        "baseMinor": 8000,
+        "priceId": "price_1Uev7zAZnqEigZm3UuWltGF2",
+        "quantityField": "show_dancers"
+      },
+      "fields": [
+        {
+          "id": "show_city",
+          "type": "radio",
+          "layout": "wide",
+          "label": {
+            "zh": "城市",
+            "en": "City"
+          },
+          "priceEffect": "none",
+          "options": [
+            {
+              "id": "norcal",
+              "label": {
+                "zh": "北加",
+                "en": "Northern California"
+              }
+            },
+            {
+              "id": "calgary",
+              "label": {
+                "zh": "卡爾加里",
+                "en": "Calgary"
+              }
+            },
+            {
+              "id": "toronto",
+              "label": {
+                "zh": "多倫多",
+                "en": "Toronto"
+              }
+            },
+            {
+              "id": "las-vegas",
+              "label": {
+                "zh": "拉斯維加斯",
+                "en": "Las Vegas"
+              }
+            },
+            {
+              "id": "chicago",
+              "label": {
+                "zh": "芝加哥",
+                "en": "Chicago"
+              }
+            },
+            {
+              "id": "recorded",
+              "label": {
+                "zh": "錄播",
+                "en": "Recorded"
+              }
+            }
+          ]
+        },
+        {
+          "id": "show_dance_type",
+          "type": "radio",
+          "layout": "wide",
+          "label": {
+            "zh": "舞蹈類別",
+            "en": "Dance type"
+          },
+          "options": [
+            {
+              "id": "small_group",
+              "label": {
+                "zh": "小群舞",
+                "en": "Small Group"
+              },
+              "minDancers": 4,
+              "maxDancers": 10,
+              "dancerRangeHint": {
+                "zh": "4–10",
+                "en": "4–10"
+              },
+              "includedTimeHint": {
+                "zh": "含 4 分鐘",
+                "en": "4 min included"
+              }
+            },
+            {
+              "id": "large_group",
+              "label": {
+                "zh": "大群舞",
+                "en": "Large Group"
+              },
+              "minDancers": 11,
+              "maxDancers": 24,
+              "dancerRangeHint": {
+                "zh": "11–24",
+                "en": "11–24"
+              },
+              "includedTimeHint": {
+                "zh": "含 5 分鐘",
+                "en": "5 min included"
+              }
+            },
+            {
+              "id": "production",
+              "label": {
+                "zh": "劇目",
+                "en": "Production"
+              },
+              "minDancers": 25,
+              "dancerRangeHint": {
+                "zh": "25+",
+                "en": "25+"
+              },
+              "includedTimeHint": {
+                "zh": "含 7 分鐘",
+                "en": "7 min included"
+              }
+            }
+          ]
+        },
+        {
+          "id": "show_dancers",
+          "type": "number",
+          "label": {
+            "zh": "參賽人數",
+            "en": "Number of dancers"
+          },
+          "placeholder": {
+            "zh": "請輸入人數",
+            "en": "Enter dancer count"
+          },
+          "rangeFrom": "show_dance_type"
+        },
+        {
+          "id": "duration",
+          "type": "select",
+          "label": {
+            "zh": "額外時長",
+            "en": "Extra time"
+          },
+          "placeholder": {
+            "zh": "請選擇時長",
+            "en": "Select performance length"
+          },
+          "options": [
+            {
+              "id": "standard",
+              "label": {
+                "zh": "不加時",
+                "en": "No extra time"
+              }
+            },
+            {
+              "id": "extra-30",
+              "label": {
+                "zh": "加時 30 秒",
+                "en": "Extra 30 sec"
+              },
+              "extraMinor": 2500,
+              "priceId": "price_1UeVJIAZnqEigZm3aFnHDVqN"
+            },
+            {
+              "id": "extra-60",
+              "label": {
+                "zh": "加時 1 分鐘",
+                "en": "Extra 1 min"
+              },
+              "extraMinor": 5000,
+              "priceId": "price_1UenX1AZnqEigZm3phFsrgfG"
+            },
+            {
+              "id": "extra-90",
+              "label": {
+                "zh": "加時 1 分 30 秒",
+                "en": "Extra 1 min 30 sec"
+              },
+              "extraMinor": 7500,
+              "priceId": "price_1UfUe0AZnqEigZm3KGFwB9PU"
+            },
+            {
+              "id": "extra-120",
+              "label": {
+                "zh": "加時 2 分鐘",
+                "en": "Extra 2 min"
+              },
+              "extraMinor": 10000,
+              "priceId": "price_1UfUfQAZnqEigZm370YOTX7j"
+            }
+          ],
+          "priceEffect": "fixedExtra",
+          "includedTimeFrom": "show_dance_type",
+          "defaultValue": "standard"
+        },
+        {
+          "id": "show_school",
+          "type": "text",
+          "label": {
+            "zh": "學校名稱（Organization）",
+            "en": "School Name (Organization)"
+          }
+        },
+        {
+          "id": "show_performance",
+          "type": "text",
+          "label": {
+            "zh": "舞蹈名稱（Performance）",
+            "en": "Performance Name"
+          }
+        }
+      ]
+    }
+  ]
+}
